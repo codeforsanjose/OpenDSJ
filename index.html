@@ -1,0 +1,183 @@
+﻿<!doctype html>
+<html>
+<head>
+    <link rel="shortcut icon" href=".ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,100,300' rel='stylesheet' type='text/css' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+    <title>OpenDSJ</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="description" content="This app will outline raw information about the 2014 San Jose California Mayoral race contributuions. Code for San Jose version of Open Disclosure app originally rolled by Code for America. ">
+    <meta name="keywords" content="2014, San Jose, Mayor, contributions, Code for America, Code for San Jose">
+    <meta name="author" content="Gajan Nagaraj">
+</head>
+
+<body>
+    <header>
+        <div id="logo" style="cursor:pointer" onclick="index.html">
+            <a href="#enter">OpenDSJ</a> 
+        </div>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#slides">Candidate Break Down</a></li>
+                /
+                <li>
+                    <a href="#more">More Info</a>
+                </li>
+                /
+                <li>
+                    <a href="#download">Download CSV</a>
+                </li>
+                /
+                <li id="totop">
+                    <a href="#enter">Back to Top</a> 
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div id="enter">
+        <h1>Mapping San Jose Campaign Finance Data</h1>
+        <p>Campaign finance data can be complex and confusing -- but it doesn't have to be. One way to make sense of it all is through data visualization and mapping. Learn where San Jose mayoral candidates campaign contributions come from. (Candidates are in order of most funds raised.)
+
+This map overlays campaign contribution data onto a map of San Jose zip codes to illuminate the connections between campaign contributors and mayoral candidates.</p>
+    </div>
+    <div id="slides">
+    <ul>
+        <li id="ng">
+            <iframe width='97%' height='520' frameborder='0' id="ng2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </li>
+        <li id="cor">
+            <iframe width='97%' height='520' frameborder='0' id="cor2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </li>
+        <li id="lic">
+            <iframe width='97%' height='520' frameborder='0' id="lic2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </li>
+        <li id="oli">
+            <iframe width='97%' height='520' frameborder='0' id="oli2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </li>
+        <li id="her">
+            <iframe width='97%' height='520' frameborder='0' id="her2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </li>
+
+    </ul>        
+    </div>
+    <div id="thumbnails">
+        <h1>Click on Person to See Information</h1>
+    <ul>
+        <li id="ng1" style="cursor:pointer">
+            <div>
+        <img src="images/ng.jpg" />
+                <p class="name">Madison Nguyen</p>
+            </div>
+        </li>
+        <li id="cor1" style="cursor:pointer">
+            <div>
+                <img src="images/cor.jpg" />
+                <p class="name">David Cortese</pclass>
+            </div>
+        </li>
+        <li id="lic1" style="cursor:pointer">
+            <div>
+                <img src="images/lic.jpg" />
+                <p class="name">Sam Licardo</p>
+            </div>
+        </li>
+        <li id="oli1" style="cursor:pointer">
+            <div>
+                <img src="images/oli.jpg" id="loi2" />
+                <p class="name">Pierluigi Oliverio</p>
+            </div>
+        </li>
+        <li id="her1" style="cursor:pointer">
+            <div>
+                <img src="images/her.jpg" />
+                <p class="name">Rose Herrera</p>
+            </div>
+        </li>
+    </ul>
+        <div id="tables">
+            <!--Madison Nguyen-->
+            <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="ng3">
+                <tr>
+                    <th scope="col">Total Raised</th>
+                    <th scope="col">Number of Contributions</th>
+                    <th scope="col">Percentage from Outside San Jose</th>
+                </tr>
+                <tr>
+                    <td>$473,498</td>
+                    <td>1,712</td>
+                    <td>21%</td>
+                </tr>
+            </table>
+            <!--Dan Cortese-->
+            <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="cor3">
+                <tr>
+                    <th scope="col">Total Raised</th>
+                    <th scope="col">Number of Contributions</th>
+                    <th scope="col">Percentage from Outside San Jose</th>
+                </tr>
+                <tr>
+                    <td>$391,813</td>
+                    <td>1,870</td>
+                    <td>45%</td>
+                </tr>
+            </table>
+            <!--Sam Liccardo-->
+            <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="lic3">
+                <tr>
+                    <th scope="col">Total Raised</th>
+                    <th scope="col">Number of Contributions</th>
+                    <th scope="col">Percentage from Outside San Jose</th>
+                </tr>
+                <tr>
+                    <td>$272,627</td>
+                    <td>1,829</td>
+                    <td>48%</td>
+                </tr>
+            </table>
+            <!--Oliviero-->
+            <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="oli3">
+                <tr>
+                    <th scope="col">Total Raised</th>
+                    <th scope="col">Number of Contributions</th>
+                    <th scope="col">Percentage from Outside San Jose</th>
+                </tr>
+                <tr>
+                    <td>$160,768</td>
+                    <td>380</td>
+                    <td>18%</td>
+                </tr>
+            </table>
+            <!--Herrera-->
+            <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="her3">
+                <tr>
+                    <th scope="col">Total Raised</th>
+                    <th scope="col">Number of Contributions</th>
+                    <th scope="col">Percentage from Outside San Jose</th>
+                </tr>
+                <tr>
+                    <td>$27,850</td>
+                    <td>179</td>
+                    <td>46%</td>
+                </tr>
+            </table>
+
+        </div>
+    </div>
+    <div id="more">
+        <h1>More Information</h1>
+        <p class="ques">What are we mapping?</p><p class="ans">Mayoral candidates and information on campaign donors.</p> 
+
+        <p class="ques">Who should use this site?</p><p class="ans">Citizens who are interested in understanding campaign finance contributions and holding thier representatives accountable, if money=influence, knowledge=power.</p>
+
+        <p class="ques">Why did we make this app?</p><p class="ans">Our goal is to provide transparent non-partisan campaign contribution data in an accessible and easy to understand format. We hope this site will provide a forum for discussion and feedback as well as provide ways to engage the public and raise awareness and accountability. Ultimately this is one step toward shifting politics into a movemet of civic engagement and ultimate citizen action.</p>
+    </div>
+    <div id="download">
+        <h1>Download CVS File</h1>
+        <div id="button" onclick="download.php" style="cursor:pointer">Download</div>
+    </div>
+</body>
+</html>
