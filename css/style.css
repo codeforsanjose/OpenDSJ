@@ -259,8 +259,10 @@ iframe{
 }
 #download{
     font-family:'Open Sans',sans-serif;
+    margin-top:10px;
     padding:15px;
     font-weight:300;
+    background-color:#ecf0f1;
 }
 #download h1{
     text-align:center;
@@ -280,4 +282,11 @@ iframe{
 #download #button:hover{
     color:#fff;
     background-color:#000;
+}
+#end{
+    margin-top:10px;
+    text-align:center;
+    font-family:'Open Sans',sans-serif;
+    font-size:40px;
+    font-weight:300;
 }

@@ -53,4 +53,7 @@ $(document).ready(function () {
         }, 500);
         return false;
     });
+	$("#button").click(function(){
+	window.location='cvs.zip';
+	});
 });
