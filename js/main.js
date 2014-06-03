@@ -14,6 +14,7 @@ $(document).ready(function () {
         $('#ng3').fadeIn('slow');
         $('img').css('border', '0px')
         $('#ng1 img').css('border', '3px solid #e74c3c')
+        $('#ng').css('border', '3px solid #e74c3c')
     })
     $('#cor1').click(function () {
         $('#slides ul li').css('display', 'none');
@@ -22,6 +23,7 @@ $(document).ready(function () {
         $('#cor3').fadeIn('slow');
         $('img').css('border', '0px')
         $('#cor1 img').css('border', '3px solid #27ae60')
+        $('#cor').css('border', '3px solid #27ae60')
     })
     $('#her1').click(function () {
         $('#slides ul li').css('display', 'none');
@@ -30,6 +32,8 @@ $(document).ready(function () {
         $('#her3').fadeIn('slow');
         $('img').css('border', '0px')
         $('#her1 img').css('border', '3px solid #7f8c8d')
+        $('#her').css('border', '3px solid #7f8c8d')
+
     })
     $('#lic1').click(function () {
         $('#slides ul li').css('display', 'none');
@@ -38,6 +42,7 @@ $(document).ready(function () {
         $('#lic3').fadeIn('slow');
         $('img').css('border', '0px')
         $('#lic1 img').css('border', '3px solid #2980b9')
+        $('#lic').css('border', '3px solid #2980b9')
     })
     $('#oli1').click(function () {
         $('#slides ul li').css('display', 'none');
@@ -46,6 +51,7 @@ $(document).ready(function () {
         $('#oli3').fadeIn('slow');
         $('img').css('border', '0px')
         $('#oli1 img').css('border', '3px solid #e67e22')
+        $('#oli').css('border', '3px solid #e67e22')
     })
     $('a').click(function () {
         $('html, body').animate({
