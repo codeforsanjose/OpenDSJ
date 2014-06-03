@@ -7,7 +7,7 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/main.js"></script>
-    <title>OpenDSJ</title>
+    <title>Open Disclosure San Jose | 2014 Mayoral Election</title>
     <link rel="stylesheet" href="css/style.css">
     <meta name="description" content="This app will outline raw information about the 2014 San Jose California Mayoral race contributuions. Code for San Jose version of Open Disclosure app originally rolled by Code for America. ">
     <meta name="keywords" content="2014, San Jose, Mayor, contributions, Code for America, Code for San Jose">
@@ -16,8 +16,9 @@
 
 <body>
     <header>
-        <div id="logo" style="cursor:pointer" onclick="index.html">
-            <a href="#enter">OpenDSJ</a> 
+        <div class="container">
+        <div id="logo">
+            <a href="#enter">OpenDSJ 2014 Election</a>
         </div>
         <nav>
             <ul>
@@ -37,17 +38,20 @@
                 </li>
             </ul>
         </nav>
+    </div>
     </header>
     <div id="enter">
-        <h1>Mapping San Jose Campaign Finance Data</h1>
-        <p>Campaign finance data can be complex and confusing -- but it doesn't have to be. One way to make sense of it all is through data visualization and mapping. Learn where San Jose mayoral candidates campaign contributions come from. (Candidates are in order of most funds raised.)
-
-This map overlays campaign contribution data onto a map of San Jose zip codes to illuminate the connections between campaign contributors and mayoral candidates.</p>
+        <div class="container">
+            <h1>Mapping San Jose 2014 Campaign Finance Data</h1>
+            <p>Campaign finance data can be complex and confusing -- but it doesn't have to be. One way to make sense of it all is through data visualization and mapping. Learn where San Jose mayoral candidates campaign contributions come from. (Candidates are in order of most funds raised.)
+            <br />
+            This map overlays campaign contribution data onto a map of San Jose zip codes to illuminate the connections between campaign contributors and mayoral candidates.</p>
+        </div>
     </div>
     <div id="slides">
-    <ul>
+    <ul class="container">
         <li id="ng">
-            <iframe width='97%' height='520' frameborder='0' id="ng2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+            <iframe width='100%' height='520' frameborder='0' id="ng2" src='http://vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=&search=false&shareable=true&cartodb_logo=false&layer_selector=false&legends=true&scrollwheel=true&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.19396315161297&sw_lon=-122.37018585205078&ne_lat=37.46150596350343&ne_lon=-121.37935638427734' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
         </li>
         <li id="cor">
             <iframe width='97%' height='520' frameborder='0' id="cor2" src='//vivek.cartodb.com/viz/263feaa0-e909-11e3-92b8-0e73339ffa50/embed_map?title=false&description=false&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=true&scrollwheel=false&fullscreen=true&sublayer_options=1&sql=&sw_lat=37.20654258428903&sw_lon=-122.52365112304688&ne_lat=37.67104912447279&ne_lon=-121.16546630859375' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -65,33 +69,34 @@ This map overlays campaign contribution data onto a map of San Jose zip codes to
     </ul>        
     </div>
     <div id="thumbnails">
+        <div class="container">
         <h1>Click on Person to See Information</h1>
     <ul>
-        <li id="ng1" style="cursor:pointer">
+        <li id="ng1">
             <div>
         <img src="images/ng.jpg" />
                 <p class="name">Madison Nguyen</p>
             </div>
         </li>
-        <li id="cor1" style="cursor:pointer">
+        <li id="cor1">
             <div>
                 <img src="images/cor.jpg" />
                 <p class="name">David Cortese</pclass>
             </div>
         </li>
-        <li id="lic1" style="cursor:pointer">
+        <li id="lic1">
             <div>
                 <img src="images/lic.jpg" />
                 <p class="name">Sam Licardo</p>
             </div>
         </li>
-        <li id="oli1" style="cursor:pointer">
+        <li id="oli1">
             <div>
-                <img src="images/oli.jpg" id="loi2" />
+                <img src="images/oli.jpg" />
                 <p class="name">Pierluigi Oliverio</p>
             </div>
         </li>
-        <li id="her1" style="cursor:pointer">
+        <li id="her1">
             <div>
                 <img src="images/her.jpg" />
                 <p class="name">Rose Herrera</p>
@@ -102,83 +107,95 @@ This map overlays campaign contribution data onto a map of San Jose zip codes to
             <!--Madison Nguyen-->
             <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="ng3">
                 <tr>
-                    <th scope="col">Total Raised</th>
-                    <th scope="col">Number of Contributions</th>
+                    <!--<th scope="col">Total Raised</th>-->
                     <th scope="col">Percentage from Outside San Jose</th>
+                    <th scope="col">Number of Contributions</th>
                 </tr>
                 <tr>
-                    <td>$473,498</td>
-                    <td>1,712</td>
+                    <!--<td>$473,498</td>-->
                     <td>21%</td>
+                    <td>1,712</td>
                 </tr>
             </table>
             <!--Dan Cortese-->
             <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="cor3">
                 <tr>
-                    <th scope="col">Total Raised</th>
-                    <th scope="col">Number of Contributions</th>
+                    <!--<th scope="col">Total Raised</th>-->
                     <th scope="col">Percentage from Outside San Jose</th>
+                    <th scope="col">Number of Contributions</th>
                 </tr>
                 <tr>
-                    <td>$391,813</td>
-                    <td>1,870</td>
+                    <!--<td>$391,813</td>-->
                     <td>45%</td>
+                    <td>1,870</td>
                 </tr>
             </table>
             <!--Sam Liccardo-->
             <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="lic3">
                 <tr>
-                    <th scope="col">Total Raised</th>
-                    <th scope="col">Number of Contributions</th>
+                    <!--<th scope="col">Total Raised</th>-->
                     <th scope="col">Percentage from Outside San Jose</th>
+                    <th scope="col">Number of Contributions</th>
+                    
                 </tr>
                 <tr>
-                    <td>$272,627</td>
-                    <td>1,829</td>
+                    <!--<td>$272,627</td>-->
                     <td>48%</td>
+                    <td>1,829</td>
                 </tr>
             </table>
             <!--Oliviero-->
             <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="oli3">
                 <tr>
-                    <th scope="col">Total Raised</th>
-                    <th scope="col">Number of Contributions</th>
+                    <!--<th scope="col">Total Raised</th>-->
                     <th scope="col">Percentage from Outside San Jose</th>
+                    <th scope="col">Number of Contributions</th>
                 </tr>
                 <tr>
-                    <td>$160,768</td>
-                    <td>380</td>
+                    <!--<td>$160,768</td>-->
                     <td>18%</td>
+                    <td>380</td>
                 </tr>
             </table>
             <!--Herrera-->
             <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0" id="her3">
                 <tr>
-                    <th scope="col">Total Raised</th>
-                    <th scope="col">Number of Contributions</th>
+                    <!--<th scope="col">Total Raised</th>-->
                     <th scope="col">Percentage from Outside San Jose</th>
+                    <th scope="col">Number of Contributions</th>
                 </tr>
                 <tr>
-                    <td>$27,850</td>
-                    <td>179</td>
+                    <!--<td>$27,850</td>-->
                     <td>46%</td>
+                    <td>179</td>
                 </tr>
             </table>
-
+        </div>
+         <p style="font-size:.9em">*All information subject to change until final counts have been made. </p>
         </div>
     </div>
     <div id="more">
-        <h1>More Information</h1>
-        <p class="ques">What are we mapping?</p><p class="ans">Mayoral candidates and information on campaign donors.</p> 
+        <div class="container">
+            <h1>More Information</h1>
+            <p class="ques">What is OpenDSJ?</p>
+            <p class="ans">It's a fun play on words but it stands for Open Disclosure San Jose. It is based off of an <a href="http://opendisclosure.io/" target="_blank">Open Oakland</a> project. The project mapped out mayoral campaign funds in a similar fashion.</p> 
+            <p class="ques">What are we mapping?</p>
+            <p class="ans">2014 San Jose California Mayoral candidates and information on campaign donors.</p> 
 
-        <p class="ques">Who should use this site?</p><p class="ans">Citizens who are interested in understanding campaign finance contributions and holding thier representatives accountable, if money=influence, knowledge=power.</p>
-
-        <p class="ques">Why did we make this app?</p><p class="ans">Our goal is to provide transparent non-partisan campaign contribution data in an accessible and easy to understand format. We hope this site will provide a forum for discussion and feedback as well as provide ways to engage the public and raise awareness and accountability. Ultimately this is one step toward shifting politics into a movemet of civic engagement and ultimate citizen action.</p>
+            <p class="ques">Who should use this site?</p>
+            <p class="ans">Citizens who are interested in understanding campaign finance contributions and holding thier representatives accountable, if money=influence, knowledge=power.</p>
+            <p class="ques">Why did we make this app?</p>
+            <p class="ans">Our goal is to provide transparent non-partisan campaign contribution data in an accessible and easy to understand format. We hope this site will provide a forum for discussion and feedback as well as provide ways to engage the public and raise awareness and accountability. Ultimately this is one step toward shifting politics into a movemet of civic engagement and ultimate citizen action.</p>
+        </div>
     </div>
     <div id="download">
-        <h1>Download CVS File</h1>
-        <div id="button" style="cursor:pointer">Download</div>
+        <div class="container">
+            <div id="disclaimer">
+                <p>*This information is subject to change. All data is public property and candidates are legally obligated to provide all contribution information. This information is up to date as of June 1st 2014. <a href="http://codeforsanjose.com" target="_blank">Code for San Jose</a> is a non political and not for profit organization. Code for San Jose favors no candidate and only works to provide unbiased information in thought provoking ways.</p>
+            </div>
+            <div id="button">Download CSV File</div>
+            <div class="cf"></div>
+        </div>
 	</div>
-
 </body>
 </html>

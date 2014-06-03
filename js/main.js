@@ -54,6 +54,6 @@ $(document).ready(function () {
         return false;
     });
 	$("#button").click(function(){
-	window.location='cvs.zip';
+	window.location='csv-060114.zip';
 	});
 });
