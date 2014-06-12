@@ -20,25 +20,26 @@ body{background-color:#fff;font-size: 13px;font-family:"Open Sans",sans-serif}
 #slides li {overflow: hidden;height:368px;border:3px solid red;}
 iframe{display:block;width:100%;height:400px}
 h1, h2, h3, p, li, th, td{font-family:"Open Sans",sans-serif}
-h1 {font-size:2em;font-weight:400;line-height:1.6em}
+h1 {font-size:2.5em;font-weight:800;line-height:1.25em;}
 a {text-decoration:underline;color:#000;}
 a:hover{color:red;}
 .container{max-width:1110px;display:block; margin: 0 auto}
 .cf{clear:both}
 #totop{display:none}
-#enter{padding:70px 0 20px}
-#enter h1{padding-bottom:5px;text-align:center}
-#enter h2{font-weight:300}
-#enter p{text-align:left}
+#enter{border-bottom:1px solid #ccc;margin-bottom:25px;padding:100px 0 25px 20px}
+#enter h1{float:left;padding-bottom:5px;text-align:left;width:25%;}
+#enter h2{float:right;font-weight:300}
+#enter p{float:right;margin-bottom:15px;text-align:left;width:75%;}
 p {font-size:1.125em;line-height:1.65em}
 #cor, #lic, #oli, #her, #cor3, #lic3, #oli3, #her3{display:none}
 #slides li {overflow:hidden;height:368px;border: 3px solid red}
+#thumbnails {margin-bottom:25px;}
 #thumbnails ul li{display:inline-block;padding:5px 40px;cursor:pointer}
 #thumbnails ul li img{border:3px solid transparent}
 #thumbnails ul{text-align:center}
 .table-data {text-align:center}
 .table-data th {background-color: #444;color: #fff;font-size: 1.6em;padding: 15px;width: 33.3%;}
-.table-data td {background-color: #e74c3c;color: #fff;font-family: sans-serif;font-size: 6.2em;padding: 15px;width: 33.3%;}
+.table-data td {background-color: #e74c3c;color: #fff;font-family: sans-serif;font-size: 4em;padding: 15px;width: 33.3%;}
 #cor3 td {background-color: #27ae60}
 #lic3 td {background-color: #2980b9}
 #oli3 td {background-color: #e67e22}
@@ -55,3 +56,45 @@ p {font-size:1.125em;line-height:1.65em}
 #disclaimer {width:70%;float:left;display:block}
 #disclaimer p{font-size:.85em;color:#666}
 #end{margin-top:10px;text-align:center;font-size:40px;font-weight:300;}
+
+
+p.instructions {
+	color: #999;
+	font-style: italic;
+	text-align: center;
+}
+
+p.disclaimer {
+	color: #999;
+	font-size: .9em;
+	text-align: right;
+}
+
+/* Clear Floated Elements */
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
+
+.clearfix:before,
+.clearfix:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+.clearfix:after {
+	clear: both;
+}
