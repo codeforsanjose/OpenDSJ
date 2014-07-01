@@ -60,6 +60,6 @@ $(document).ready(function () {
         return false;
     });
 	$("#button").click(function(){
-	window.location='ContributionsByZip.zip';
+	window.location='SJMayoralContributionsByZip.zip';
 	});
 });
