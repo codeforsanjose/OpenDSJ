@@ -27,9 +27,9 @@ a:hover{color:red;}
 .cf{clear:both}
 #totop{display:none}
 #enter{border-bottom:1px solid #ccc;margin-bottom:25px;padding:100px 0 25px 20px}
-#enter h1{float:left;padding-bottom:5px;text-align:left;width:25%;}
+#enter h1{padding-bottom:5px;text-align:left;}
 #enter h2{float:right;font-weight:300}
-#enter p{float:right;margin-bottom:15px;text-align:left;width:75%;}
+#enter p{margin-bottom:15px;text-align:left;}
 p {font-size:1.125em;line-height:1.65em}
 #cor, #lic, #oli, #her, #cor3, #lic3, #oli3, #her3{display:none}
 #slides li {overflow:hidden;height:368px;border: 3px solid red}
