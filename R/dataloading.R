@@ -23,7 +23,6 @@ mayor2014 <- A.Contributions.Table.1
 #25445 obs
 
 str(mayor2014)
-str(mayors)
 #Both have 75 variables
 #12240 Obs
 combo <- numeric()
