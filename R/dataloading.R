@@ -39,11 +39,11 @@ levels(combo$Tran_City)
 #There are Tran_City categories that is out of place: "" (empty), "94116", "n/a"
 #"sf" and "san francisco" should be combinded, but we are only interested in "San Jose" and "Not San Jose"
 #so we'll only update "san joe", "san jose", "san  jose", "sj" and "san josr" to be combinded.
+# the ^ and $surrounding alpha are there to ensure that the entire string matches
 levels(combo$Tran_City) <- sub("^san joe$", "san jose", levels(combo$Tran_City))
-levels(combo$Tran_City) <- sub("^san josr", "san jose", levels(combo$Tran_City))
-levels(combo$Tran_City) <- sub("^san  jose", "san jose", levels(combo$Tran_City))
-levels(combo$Tran_City) <- sub("^sj", "san jose", levels(combo$Tran_City))
-
+levels(combo$Tran_City) <- sub("^san josr$", "san jose", levels(combo$Tran_City))
+levels(combo$Tran_City) <- sub("^san  jose$", "san jose", levels(combo$Tran_City))
+levels(combo$Tran_City) <- sub("^sj$", "san jose", levels(combo$Tran_City))
 
 #Need to take care of case where "95132-"
 #Which doesn't get cleaned to 95132 but returns an error
