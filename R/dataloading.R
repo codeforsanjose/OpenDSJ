@@ -34,11 +34,15 @@ str(combo)
 #37685
 
 combo$Tran_City <-as.factor(tolower(combo$Tran_City))
-str(combo$Tran_City)
+levels(combo$Tran_City)
 #662 levels
 #There are Tran_City categories that is out of place: "" (empty), "94116", "n/a"
-#"sf" and "san francisco" should be combinded
-#"san joe", "san jose", and "san josr" should be combinded
+#"sf" and "san francisco" should be combinded, but we are only interested in "San Jose" and "Not San Jose"
+#so we'll only update "san joe", "san jose", "san  jose", "sj" and "san josr" to be combinded.
+levels(combo$Tran_City) <- sub("^san joe$", "san jose", levels(combo$Tran_City))
+levels(combo$Tran_City) <- sub("^san josr", "san jose", levels(combo$Tran_City))
+levels(combo$Tran_City) <- sub("^san  jose", "san jose", levels(combo$Tran_City))
+levels(combo$Tran_City) <- sub("^sj", "san jose", levels(combo$Tran_City))
 
 
 #Need to take care of case where "95132-"
