@@ -6,8 +6,8 @@ library(plyr)
 
 setwd("/Users/Vivek/Dropbox/opendisclosure")
 #Mac
-A.Contributions.Table.1 <- read.csv("~/Dropbox/opendisclosure/City Data/efile_CSJ_2014 2/A-Contributions-Table 1.csv")
-efile_newest_CSJ_2013_A_contributions <- read.csv("~/Dropbox/opendisclosure/City Data/2013_CSJ/efile_newest_CSJ_2013_A_contributions.csv")
+A.Contributions.Table.1 <- read.csv("~/Dropbox/opendisclosure/City Data/efile_CSJ_2014 2/A-Contributions-Table 1.csv", stringsAsFactors=FALSE)
+efile_newest_CSJ_2013_A_contributions <- read.csv("~/Dropbox/opendisclosure/City Data/2013_CSJ/efile_newest_CSJ_2013_A_contributions.csv", stringsAsFactors=FALSE)
 
 
 #PC
@@ -19,28 +19,28 @@ efile_newest_CSJ_2013_A_contributions <- read.csv("C:/Dropbox/opendisclosure/201
 mayor2013<-efile_newest_CSJ_2013_A_contributions
 mayor2014 <- A.Contributions.Table.1
 
-  str(mayor2013)
+str(mayor2013)
 #25445 obs
 
 str(mayor2014)
 #Both have 75 variables
 #12240 Obs
-combo <- numeric()
+combo <- data.frame(stringsAsFactors=FALSE)
 combo <- rbind(mayor2013, mayor2014)
-#Errors, not sure why...
 
 str(combo)
 #Combo has 37685 observations, 75 variables
 #25445+12240
 #37685
 
-str(combo$Tran_City)
-
-#Clean up Data
-#732 levels
 combo$Tran_City <-as.factor(tolower(combo$Tran_City))
 str(combo$Tran_City)
 #662 levels
+#There are Tran_City categories that is out of place: "" (empty), "94116", "n/a"
+#"sf" and "san francisco" should be combinded
+#"san joe", "san jose", and "san josr" should be combinded
+
+
 #Need to take care of case where "95132-"
 #Which doesn't get cleaned to 95132 but returns an error
 #Though 95132-2110 is cleaned to 95132
