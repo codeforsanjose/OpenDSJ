@@ -62,7 +62,8 @@ for(i in 1:nrow(combo)) {                 #takes a few mins
 }
 combo$Tran_Zip4 <- clean.zipcodes(combo$Tran_Zip4)
 
-
+#cleaning dates
+#something is wrong with dates in df mayor2014
 combo$Tran_Date <- as.Date(as.character(combo$Tran_Date), "%m/%d/%Y")
 
 combo$Rpt_Date <- as.Date(as.character(combo$Rpt_Date), "%m/%d/%Y")
