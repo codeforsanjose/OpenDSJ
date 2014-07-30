@@ -33,6 +33,7 @@ str(combo)
 #25445+12240
 #37685
 
+#cleaning city names
 combo$Tran_City <-as.factor(tolower(combo$Tran_City))
 levels(combo$Tran_City)
 #662 levels
@@ -45,24 +46,20 @@ levels(combo$Tran_City) <- sub("^san josr$", "san jose", levels(combo$Tran_City)
 levels(combo$Tran_City) <- sub("^san  jose$", "san jose", levels(combo$Tran_City))
 levels(combo$Tran_City) <- sub("^sj$", "san jose", levels(combo$Tran_City))
 
-#Need to take care of case where "95132-"
-#Which doesn't get cleaned to 95132 but returns an error
-#Though 95132-2110 is cleaned to 95132
+#cleaning zipcodes
 combo$Tran_Zip4
 combo$Tran_Zip4 <- as.character(combo$Tran_Zip4)
 
-#This part can be slow
-#for(i in 1:nrow(combo)) {
-for(i in 1:37000) {
-  if(!is.na(combo$Tran_Zip4[i]) && nchar(combo$Tran_Zip4[i]) >= 6)
-  {
-    if(substr(combo$Tran_Zip4[i],6, 6) == "-") {
-      combo$Tran_Zip4[i] <- substr(combo$Tran_Zip4[i],1, 5)
-    }
-  }
+
+#Need to take care of case where "95132-"
+#clean.zipcodes doesn't take care of cases with "-" at the end.  Instead, it returns NA's
+#Though 95132-2110 is cleaned to 95132
+for(i in 1:nrow(combo)) {                 #takes a few mins
+    if(nchar(combo$Tran_Zip4[i]) == 6)    #looking for cases only when zipcode is 6 char long
+    {
+        combo$Tran_Zip4[i] <- gsub("-.*","",combo$Tran_Zip4[i])
+        }
 }
-
-
 combo$Tran_Zip4 <- clean.zipcodes(combo$Tran_Zip4)
 
 
