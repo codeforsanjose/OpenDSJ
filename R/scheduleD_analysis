@@ -1,0 +1,38 @@
+#Take form D-Expenditure 
+getwd()
+D.Expenditure.Table.2014 <- read.csv("~/Dropbox/opendisclosure/City Data/2014_CSJ/scheduleD_expenditure.csv",
+stringsAsFactors=FALSE)
+
+#This is to find out how much money is going to support and/or oppose a candidate
+#Cand_NamL = Candidate's name
+
+names(D.Expenditure.Table.2014)
+#interested in Sup_Opp_Cd & Candidate's name & Amount variables
+
+col_Amt <- which(colnames(D.Expenditure.Table.2014)=="Amount")  ##"ID" is the name of the column which can be changed
+col_Name <- which(colnames(D.Expenditure.Table.2014)=="Cand_NamL") ##"TDate" is the name of the Transfer Date column
+col_Sup <- which(colnames(D.Expenditure.Table.2014)=="Sup_Opp_Cd")  ##"Amt1" is the transfer amount that we are interested in
+
+data <- D.Expenditure.Table.2014[ , c(col_Amt, col_Name, col_Sup)]
+
+str(data)
+
+#Candidate's Name and Support Vs. Oppose variables are factor variables
+data$Cand_NamL <- as.factor(tolower(data$Cand_NamL))
+data$Sup_Opp_Cd <- as.factor(data$Sup_Opp_Cd)
+
+str(data) #check
+
+#create a function that takes a candidate's name and output the total amt of money that went to Oppose or Support him/her.
+summary <- function(candidate){
+  summarySupOpp <- aggregate(data$Amount, by=list(data$Cand_NamL, data$Sup_Opp_Cd), FUN=sum)
+  summarySupOpp <- summarySupOpp[(summarySupOpp$Group.1 == candidate), c(1, 2, 3)]
+  summarySupOpp
+}
+
+summary("sam liccardo")
+#sam liccardo has $246,068 that went to support him
+
+summary("dave cortese")
+#dave cortese has $59,905 that went to campaign against him
+#and $44,122 that went to support him
