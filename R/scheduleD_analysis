@@ -9,9 +9,9 @@ stringsAsFactors=FALSE)
 names(D.Expenditure.Table.2014)
 #interested in Sup_Opp_Cd & Candidate's name & Amount variables
 
-col_Amt <- which(colnames(D.Expenditure.Table.2014)=="Amount")  ##"ID" is the name of the column which can be changed
-col_Name <- which(colnames(D.Expenditure.Table.2014)=="Cand_NamL") ##"TDate" is the name of the Transfer Date column
-col_Sup <- which(colnames(D.Expenditure.Table.2014)=="Sup_Opp_Cd")  ##"Amt1" is the transfer amount that we are interested in
+col_Amt <- which(colnames(D.Expenditure.Table.2014)=="Amount")  
+col_Name <- which(colnames(D.Expenditure.Table.2014)=="Cand_NamL") 
+col_Sup <- which(colnames(D.Expenditure.Table.2014)=="Sup_Opp_Cd")  
 
 data <- D.Expenditure.Table.2014[ , c(col_Amt, col_Name, col_Sup)]
 
@@ -36,3 +36,37 @@ summary("sam liccardo")
 summary("dave cortese")
 #dave cortese has $59,905 that went to campaign against him
 #and $44,122 that went to support him
+
+
+-----------------------
+
+#now, we want to see who donated the most money
+
+col_Amt <- which(colnames(D.Expenditure.Table.2014)=="Amount")
+col_Name <- which(colnames(D.Expenditure.Table.2014)=="Cand_NamL")
+col_Sup <- which(colnames(D.Expenditure.Table.2014)=="Sup_Opp_Cd")
+col_Payee <- which(colnames(D.Expenditure.Table.2014)=="Payee_NamL")  ##Payee Name is the name of group or person giving money to oppose or support a candidate
+
+
+dataPayee <- D.Expenditure.Table.2014[ , c(col_Amt, col_Name, col_Sup, col_Payee)]
+
+str(dataPayee)
+#we need to turn Candidate's Name and Support Vs. Oppose variables as factor variables
+dataPayee$Cand_NamL <- as.factor(tolower(dataPayee$Cand_NamL))
+dataPayee$Payee_NamL <- as.factor(tolower(dataPayee$Payee_NamL))
+
+dataPayee$Sup_Opp_Cd <- as.factor(dataPayee$Sup_Opp_Cd)
+
+str(dataPayee) #check
+
+
+summaryPayee <- aggregate(dataPayee$Amount, by=list(dataPayee$Payee_NamL, dataPayee$Cand_NamL, dataPayee$Sup_Opp_Cd), FUN=sum)
+summaryPayee <- rename(summaryPayee, c("Group.1" = "Payee", "Group.2" = "Candidate", "Group.3" = "OppseSupport", "x" = "Amount" ))
+summaryPayee <- summaryPayee[order(-summaryPayee$Amount), ]
+
+top10Payee <- head(summaryPayee, 10) #to see top 10
+
+top10Payee
+
+write.csv(top10Payee, "top10Payee.csv")
+
