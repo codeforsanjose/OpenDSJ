@@ -1,8 +1,22 @@
-http://nf4.netfile.com/pub2/(X(1)S(jjctzwtjarjdqegnmv34v5oo))/Default.aspx?aid=CSJ&AspxAutoDetectCookieSupport=1
+#http://nf4.netfile.com/pub2/(X(1)S(jjctzwtjarjdqegnmv34v5oo))/Default.aspx?aid=CSJ&AspxAutoDetectCookieSupport=1
 
 #install.packages("zipcode")
 library(zipcode)
 library(plyr)
+
+require(XLConnect)
+setwd("/Volumes/Windows/OpenDSJ/R")
+wb = loadWorkbook("efile_CSJ_2014.xlsx")
+df = readWorksheet(wb, sheet = "Sheet1", header = TRUE)
+
+setwd()
+
+
+setwd("/Users/Vivek/Dropbox/opendisclosure")
+
+file <- system.file("efile_CSJ_2014", "efile_CSJ_2014.xlsx", package = "xlsx")
+res <- read.xlsx(file, 1) # read the second sheet
+
 
 setwd("/Users/Vivek/Dropbox/opendisclosure")
 #Mac
@@ -45,6 +59,10 @@ levels(combo$Tran_City) <- sub("^san joe$", "san jose", levels(combo$Tran_City))
 levels(combo$Tran_City) <- sub("^san josr$", "san jose", levels(combo$Tran_City))
 levels(combo$Tran_City) <- sub("^san  jose$", "san jose", levels(combo$Tran_City))
 levels(combo$Tran_City) <- sub("^sj$", "san jose", levels(combo$Tran_City))
+
+#658 levels
+#There are many other errors but they don't matter.  The only time we use city name
+#is to see inside and outside San Jose.
 
 #cleaning zipcodes
 combo$Tran_Zip4
