@@ -1,4 +1,4 @@
-#You can run the below as is to find the comma separate txt file with the info you need
+#You can run the below as is to get the comma separate txt file with the info you need
 
 library(zipcode)
 library(plyr)
@@ -52,12 +52,12 @@ nguyen$secCol <- "Nguyen"
 nguyen$ID <- NULL
 nguyen <- nguyen[ , c(3, 4, 1, 2)] #Reorder
 
-#For Licarrdo
-licarrdo <- allMayorsByZip[allMayorsByZip$ID == 1361139, ] 
-licarrdo$firstCol <- "primary"
-licarrdo$secCol <- "Licarrdo"
-licarrdo$ID <- NULL
-licarrdo <- licarrdo[ , c(3, 4, 1, 2)] #Reorder
+#For Liccardo
+liccardo <- allMayorsByZip[allMayorsByZip$ID == 1361139, ] 
+liccardo$firstCol <- "primary"
+liccardo$secCol <- "Liccardo"
+liccardo$ID <- NULL
+liccardo <- licarrdo[ , c(3, 4, 1, 2)] #Reorder
 
 #For Oliverio
 oliverio <- allMayorsByZip[allMayorsByZip$ID == 1362117, ] 
@@ -80,7 +80,7 @@ herrera$secCol <- "Herrera"
 herrera$ID <- NULL
 herrera <- herrera[ , c(3, 4, 1, 2)] #Reorder
 
-summaryInfoPrimary <- rbind(nguyen, licarrdo, oliverio, cortese, herrera)
+summaryInfoPrimary <- rbind(nguyen, liccardo, oliverio, cortese, herrera)
 
 write.table(summaryInfoPrimary, "summaryInfoPrimary.txt", quote=FALSE, sep="," , row.names=FALSE, col.names=FALSE)
 
