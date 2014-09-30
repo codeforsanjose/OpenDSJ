@@ -1,7 +1,8 @@
 #You can run the below as is to get the comma separate txt file with the info you need
 
 #Choose the cut off date where the amt contributed is for the runoff (not for the primary).
-cutOffDate <- as.Date(as.character("2013-06-05"))  #The date has to be input in YYYY-MM-DD format
+#The contributions given strictly after this date is considered for the runoff 
+cutOffDate <- as.Date(as.character("2014-06-05"))  #The date has to be input in YYYY-MM-DD format
 
 library(zipcode)
 library(plyr)
@@ -48,45 +49,61 @@ mayors <- rename(somemayors, c("combo.Filer_NamL"="Cands", "combo.Filer_ID"="ID"
 
 
 primaryCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
-                            data = mayors[(mayors$TDate <= cutOffDate),], FUN = sum)
+                               data = mayors[(mayors$TDate <= cutOffDate),], FUN = sum)
 
 #For Nguyen
-nguyen <- allMayorsByZip[allMayorsByZip$ID == 1359805, ] 
+nguyen <- primaryCandidates[primaryCandidates$ID == 1359805, ] 
 nguyen$firstCol <- "primary"
 nguyen$secCol <- "Nguyen"
 nguyen$ID <- NULL
 nguyen <- nguyen[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Liccardo
-liccardo <- allMayorsByZip[allMayorsByZip$ID == 1361139, ] 
+liccardo <- primaryCandidates[primaryCandidates$ID == 1361139, ] 
 liccardo$firstCol <- "primary"
 liccardo$secCol <- "Liccardo"
 liccardo$ID <- NULL
 liccardo <- liccardo[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Oliverio
-oliverio <- allMayorsByZip[allMayorsByZip$ID == 1362117, ] 
+oliverio <- primaryCandidates[primaryCandidates$ID == 1362117, ] 
 oliverio$firstCol <- "primary"
 oliverio$secCol <- "Oliverio"
 oliverio$ID <- NULL
 oliverio <- oliverio[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Cortese
-cortese <- allMayorsByZip[allMayorsByZip$ID == 1362187, ] 
+cortese <- primaryCandidates[primaryCandidates$ID == 1362187, ] 
 cortese$firstCol <- "primary"
 cortese$secCol <- "Cortese"
 cortese$ID <- NULL
 cortese <- cortese[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Herrera
-herrera <- allMayorsByZip[allMayorsByZip$ID == 1362068, ] 
+herrera <- primaryCandidates[primaryCandidates$ID == 1362068, ] 
 herrera$firstCol <- "primary"
 herrera$secCol <- "Herrera"
 herrera$ID <- NULL
 herrera <- herrera[ , c(4, 5, 2, 1, 3)] #Reorder
 
-summaryInfoPrimary <- rbind(nguyen, liccardo, oliverio, cortese, herrera)
+runOffCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
+                               data = mayors[(mayors$TDate > cutOffDate),], FUN = sum)
+#For Liccardo
+liccardoRunOff <- runOffCandidates[runOffCandidates$ID == 1361139, ] 
+liccardoRunOff$firstCol <- "runoff"
+liccardoRunOff$secCol <- "Liccardo"
+liccardoRunOff$ID <- NULL
+liccardoRunOff <- liccardoRunOff[ , c(4, 5, 2, 1, 3)] #Reorder
 
-write.table(summaryInfoPrimary, "summaryInfoPrimary.txt", quote=FALSE, sep="," , row.names=FALSE, col.names=FALSE)
+#For Cortese
+corteseRunOff <- primaryCandidates[runOffCandidates$ID == 1362187, ] 
+corteseRunOff$firstCol <- "runoff"
+corteseRunOff$secCol <- "Cortese"
+corteseRunOff$ID <- NULL
+corteseRunOff <- corteseRunOff[ , c(4, 5, 2, 1, 3)] #Reorder
 
-getwd() #find summaryInfoPrimary.txt
+summaryInfo <- rbind(nguyen, liccardo, oliverio, cortese, herrera, liccardoRunOff, corteseRunOff)
+
+write.table(summaryInfo, "summaryInfo.txt", quote=FALSE, sep="," , row.names=FALSE, col.names=FALSE)
+
+getwd() #find summaryInfo.txt
