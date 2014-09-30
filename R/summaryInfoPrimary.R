@@ -1,5 +1,8 @@
 #You can run the below as is to get the comma separate txt file with the info you need
 
+#Choose the cut off date where the amt contributed is for the runoff (not for the primary).
+cutOffDate <- as.Date(as.character("2013-06-05"))  #The date has to be input in YYYY-MM-DD format
+
 library(zipcode)
 library(plyr)
 
@@ -43,42 +46,44 @@ str(somemayors)
 mayors <- rename(somemayors, c("combo.Filer_NamL"="Cands", "combo.Filer_ID"="ID", "combo.Rpt_Date"="RDate", "combo.From_Date" = "FDate", "combo.Tran_Date"="TDate",  "combo.Tran_ID" = "TranID","combo.Tran_NamL" = "TranName",
                                "combo.Tran_Zip4"="Zip", "combo.Tran_City"="City", "combo.Tran_State"="State", "combo.Tran_Amt1"="Amt1")) 
 
-allMayorsByZip <- aggregate(Amt1 ~ Zip + ID, data = mayors, FUN = sum)
+
+primaryCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
+                            data = mayors[(mayors$TDate <= cutOffDate),], FUN = sum)
 
 #For Nguyen
 nguyen <- allMayorsByZip[allMayorsByZip$ID == 1359805, ] 
 nguyen$firstCol <- "primary"
 nguyen$secCol <- "Nguyen"
 nguyen$ID <- NULL
-nguyen <- nguyen[ , c(3, 4, 1, 2)] #Reorder
+nguyen <- nguyen[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Liccardo
 liccardo <- allMayorsByZip[allMayorsByZip$ID == 1361139, ] 
 liccardo$firstCol <- "primary"
 liccardo$secCol <- "Liccardo"
 liccardo$ID <- NULL
-liccardo <- liccardo[ , c(3, 4, 1, 2)] #Reorder
+liccardo <- liccardo[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Oliverio
 oliverio <- allMayorsByZip[allMayorsByZip$ID == 1362117, ] 
 oliverio$firstCol <- "primary"
 oliverio$secCol <- "Oliverio"
 oliverio$ID <- NULL
-oliverio <- oliverio[ , c(3, 4, 1, 2)] #Reorder
+oliverio <- oliverio[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Cortese
 cortese <- allMayorsByZip[allMayorsByZip$ID == 1362187, ] 
 cortese$firstCol <- "primary"
 cortese$secCol <- "Cortese"
 cortese$ID <- NULL
-cortese <- cortese[ , c(3, 4, 1, 2)] #Reorder
+cortese <- cortese[ , c(4, 5, 2, 1, 3)] #Reorder
 
 #For Herrera
 herrera <- allMayorsByZip[allMayorsByZip$ID == 1362068, ] 
 herrera$firstCol <- "primary"
 herrera$secCol <- "Herrera"
 herrera$ID <- NULL
-herrera <- herrera[ , c(3, 4, 1, 2)] #Reorder
+herrera <- herrera[ , c(4, 5, 2, 1, 3)] #Reorder
 
 summaryInfoPrimary <- rbind(nguyen, liccardo, oliverio, cortese, herrera)
 
