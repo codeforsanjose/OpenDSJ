@@ -57,7 +57,7 @@ liccardo <- allMayorsByZip[allMayorsByZip$ID == 1361139, ]
 liccardo$firstCol <- "primary"
 liccardo$secCol <- "Liccardo"
 liccardo$ID <- NULL
-liccardo <- licarrdo[ , c(3, 4, 1, 2)] #Reorder
+liccardo <- liccardo[ , c(3, 4, 1, 2)] #Reorder
 
 #For Oliverio
 oliverio <- allMayorsByZip[allMayorsByZip$ID == 1362117, ] 
