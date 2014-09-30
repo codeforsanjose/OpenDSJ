@@ -48,6 +48,8 @@ mayors <- rename(somemayors, c("combo.Filer_NamL"="Cands", "combo.Filer_ID"="ID"
                                "combo.Tran_Zip4"="Zip", "combo.Tran_City"="City", "combo.Tran_State"="State", "combo.Tran_Amt1"="Amt1")) 
 
 
+########### Now, we use "mayors" dataframe to aggregate the contributions for the primary #############
+
 primaryCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
                                data = mayors[(mayors$TDate <= cutOffDate),], FUN = sum)
 
@@ -86,6 +88,9 @@ herrera$secCol <- "Herrera"
 herrera$ID <- NULL
 herrera <- herrera[ , c(4, 5, 2, 1, 3)] #Reorder
 
+
+#################### Then, for the runoff ####################
+
 runOffCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
                                data = mayors[(mayors$TDate > cutOffDate),], FUN = sum)
 #For Liccardo
@@ -102,6 +107,8 @@ corteseRunOff$secCol <- "Cortese"
 corteseRunOff$ID <- NULL
 corteseRunOff <- corteseRunOff[ , c(4, 5, 2, 1, 3)] #Reorder
 
+
+#################### Row-bind everything ######################
 summaryInfo <- rbind(nguyen, liccardo, oliverio, cortese, herrera, liccardoRunOff, corteseRunOff)
 
 write.table(summaryInfo, "summaryInfo.txt", quote=FALSE, sep="," , row.names=FALSE, col.names=FALSE)
