@@ -1,16 +1,32 @@
 #http://nf4.netfile.com/pub2/(X(1)S(jjctzwtjarjdqegnmv34v5oo))/Default.aspx?aid=CSJ&AspxAutoDetectCookieSupport=1
 
 #install.packages("zipcode")
+
+options(java.parameters = "-Xm80000m")
+
+
 library(zipcode)
 library(plyr)
 
+
+
+library(rJava)
+require(xlsx)
+#options(java.parameters = "-Xmx1000m")
+
+
 require(XLConnect)
 setwd("/Volumes/Windows/OpenDSJ/R")
+file <- system.file("tests", "efile_CSJ_2014.xlsx", package = "xlsx")
+res <- read.xlsx(file, 1)  # read first sheet
+
+
 wb = loadWorkbook("efile_CSJ_2014.xlsx")
 df = readWorksheet(wb, sheet = "Sheet1", header = TRUE)
 
 setwd()
 
+res <- read.xlsx("efile_CSJ_2014.xlsx", 1)
 
 setwd("/Users/Vivek/Dropbox/opendisclosure")
 
@@ -20,13 +36,20 @@ res <- read.xlsx(file, 1) # read the second sheet
 
 setwd("/Users/Vivek/Dropbox/opendisclosure")
 #Mac
-A.Contributions.Table.1 <- read.csv("~/Dropbox/opendisclosure/City Data/efile_CSJ_2014 2/A-Contributions-Table 1.csv", stringsAsFactors=FALSE)
-efile_newest_CSJ_2013_A_contributions <- read.csv("~/Dropbox/opendisclosure/City Data/2013_CSJ/efile_newest_CSJ_2013_A_contributions.csv", stringsAsFactors=FALSE)
+#A.Contributions.Table.1 <- read.csv("~/Dropbox/opendisclosure/City Data/efile_CSJ_2014 2/A-Contributions-Table 1.csv", stringsAsFactors=FALSE)
+#efile_newest_CSJ_2013_A_contributions <- read.csv("~/Dropbox/opendisclosure/City Data/2013_CSJ/efile_newest_CSJ_2013_A_contributions.csv", stringsAsFactors=FALSE)
 
 
 #PC
-A.Contributions.Table.1 <- read.csv("C:/Dropbox/opendisclosure/efile_CSJ_2014 2/A-Contributions-Table 1.csv")
-efile_newest_CSJ_2013_A_contributions <- read.csv("C:/Dropbox/opendisclosure/2013_CSJ/efile_newest_CSJ_2013_A_contributions.csv")
+#A.Contributions.Table.1 <- read.csv("C:/Dropbox/opendisclosure/efile_CSJ_2014 2/A-Contributions-Table 1.csv")
+#efile_newest_CSJ_2013_A_contributions <- read.csv("C:/Dropbox/opendisclosure/2013_CSJ/efile_newest_CSJ_2013_A_contributions.csv")
+
+setwd("/Volumes/Windows/OpenDSJ/R")
+
+A.Contributions.Table.1 <- read.csv("/Volumes/Windows/OpenDSJ/R/A-Contributions-Table 1.csv", stringsAsFactors=FALSE)
+efile_newest_CSJ_2013_A_contributions <- read.csv("/Volumes/Windows/OpenDSJ/R/efile_newest_CSJ_2013_A_contributions.csv", stringsAsFactors=FALSE)
+
+
 
 #View(A.Contributions.Table.1)
 #View(efile_newest_CSJ_2013_A_contributions)
@@ -41,6 +64,7 @@ str(mayor2014)
 #12240 Obs
 combo <- data.frame(stringsAsFactors=FALSE)
 combo <- rbind(mayor2013, mayor2014)
+#Now 15016 Obs
 
 str(combo)
 #Combo has 37685 observations, 75 variables
@@ -144,7 +168,7 @@ sum(subset(mayors, ID == 1366242)$Amt1)
 sum(subset(mayors, ID == 1362117)$Amt1)
 #Rose Herrera [36] Rose Herrera for Mayor 2014
 1362068 Rose Herrera for Mayor 2014
-
+sum(subset(mayors, ID == 1362068)$Amt1, na.rm = TRUE)
 #Firefighters?
 #743393
 

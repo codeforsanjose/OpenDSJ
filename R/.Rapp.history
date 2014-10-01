@@ -1,0 +1,73 @@
+Fit a classification tree (CART) on the same data; repeat all the analysis as in Case 3.#
+#german <- read.csv("~/Dropbox/SJSU ALLT/Kurser SJSU/Data mining SJSU/Shared Bus 192/Case4/Files case 3/german.excel2.csv", header=T)#
+german <- read.csv("~/Dropbox//Bus 192/Shared Bus 192/Case3/files/german.excel2.csv", header=T)#
+#german <- read.csv("C:/Dropbox/Bus 192/Shared Bus 192/Case3/german.excel2.csv", header=T)#
+#
+#http://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf#
+#http://www.r-bloggers.com/modelling-with-r-part-1/#
+#http://programming-r-pro-bro.blogspot.com/2011/10/modelling-with-r-part-2.html#
+#
+head(german)#
+names(german) <- c("chk_acct", "duration", "history", "purpose", "credit_amount", #
+                   "sav_acct", "employment", "install_rate", "pstatus", "other_debtor", #
+                   "time_resid", "property", "age", "other_install", "housing", #
+                   "other_credits", "job", "num_depend", "telephone", "foreign", "response")#
+#
+#Change the response from 1 and 2 to 0 and 1#
+german$response = german$response - 1#
+#
+# Factor variables:#
+german$chk_acct<-as.factor(german$chk_acct)#
+german$history<-as.factor(german$history)#
+german$purpose<-as.factor(german$purpose)#
+german$sav_acct<-as.factor(german$sav_acct)#
+german$employment<-as.factor(german$employment)#
+german$pstatus<-as.factor(german$pstatus)#
+german$other_debtor<-as.factor(german$other_debtor)#
+german$property<-as.factor(german$property)#
+german$other_install<-as.factor(german$other_install)#
+german$housing<-as.factor(german$housing)#
+german$job<-as.factor(german$job)#
+german$response<-as.factor(german$response)#
+# install.packages("rpart")#
+library(rpart)#
+#
+#Used in order#
+set.seed(45)#
+#set.seed(46)#
+#set.seed(146)#
+# 80% subset:#
+    subset<- sample(nrow(german), nrow(german)*.8)#
+#
+# 90% subset:#
+    # subset<- sample(nrow(german), nrow(german)*.9)#
+#
+credit.train <- german[subset,]#
+credit.test <- german[-subset,]#
+# Classification tree: 10:1 cost#
+credit.rpart <- rpart(formula = response ~ . , data = credit.train,#
+                       method = "class",#
+                       parms = list(loss = matrix(c(0, 1, 10, 0), nrow = 2)))#
+# #
+credit.rpart2 <- rpart(formula = response ~ . , data = credit.train,#
+                      method = "class", cp = 5e-04)
+Print and plot tree#
+credit.rpart#
+plot(credit.rpart)#
+text(credit.rpart)
+options(java.parameters = "-Xm30000m")
+library(zipcode)#
+library(plyr)#
+library(rJava)#
+require(xlsx)
+require(XLConnect)
+file <- system.file("efile_2014", "efile_CSJ_2014.xlsx", package = "xlsx")
+wb = loadWorkbook("efile_CSJ_2014.xlsx")
+getwd()
+setwd("/Volumes/Windows/OpenDSJ/R")
+wb = loadWorkbook("efile_CSJ_2014.xlsx")
+options(java.parameters = "-Xm80000m")
+require(XLConnect)
+file <- system.file("efile_2014", "efile_CSJ_2014.xlsx", package = "xlsx")
+res <- read.xlsx(file, 1)  # read first sheet
+getwd()

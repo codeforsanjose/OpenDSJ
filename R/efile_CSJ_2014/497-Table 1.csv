@@ -1,0 +1,574 @@
+Filer_ID,Filer_NamL,Report_Num,Committee_Type,Rpt_Date,From_Date,Thru_Date,Elect_Date,Rec_Type,Form_Type,Tran_ID,Entity_Cd,Enty_NamL,Enty_NamF,Enty_NamT,Enty_NamS,Enty_Adr1,Enty_Adr2,Enty_City,Enty_ST,Enty_Zip4,Ctrib_Emp,Ctrib_Occ,Ctrib_Self,Elec_Date,Ctrib_Date,Date_Thru,Amount,Cmte_ID,Cand_NamL,Cand_NamF,Cand_NamT,Cand_NamS,Office_Cd,Offic_Dscr,Juris_Cd,Juris_Dscr,Dist_No,Off_S_H_Cd,Bal_Name,Bal_Num,Bal_Juris,Memo_Code,Memo_RefNo,Rpt_ID_Num
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41796,,,,S497,F497P1,INC83,IND,D. MICHAEL FOULKES,,,,,,Campbell,CA,95008,APPLE INC.,GOVERNMENT AFFAIRS DIRECTOR,,,41792,,500.00,,,,,,,,,,,,,,,,,LCR #440
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC82,OTH,MKA CAPITAL LLC,,,,,,Saratoga,CA,95070,,,,,41790,,500.00,,,,,,,,,,,,,,,,,LCR #430A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC81,OTH,"PURPLE LEAF, LLC",,,,,,Dallas,TX,94043,,,,,41790,,4000.00,,,,,,,,,,,,,,,,,LCR #430A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC80,OTH,"PURPLE LEAF, LLC",,,,,,Dallas,TX,94043,,,,,41789,,1000.00,,,,,,,,,,,,,,,,,LCR #417A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC79,OTH,"THE DEUCE GROUP, LLC",,,,,,Portola Valley,CA,94028,,,,,41789,,500.00,,,,,,,,,,,,,,,,,LCR #417A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC71,IND,BOWERS,ANN,,,,,Palo Alto,CA,94301,RETIRED,RETIRED,,,41785,,5000.00,,,,,,,,,,,,,,,,,LCR #360A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC70,OTH,GORDON BIERSCH BREWING COMPANY,,,,,,San Jose,CA,95113,,,,,41786,,2000.00,,,,,,,,,,,,,,,,,LCR #360A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC73,IND,GUARDINO,CARL THOMAS,,,,,Monte Sereno,CA,95030,SILICON VALLEY LEADERSHIP GROUP,CEO,,,41786,,1000.00,,,,,,,,,,,,,,,,,LCR #360A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41796,,,,S497,F497P1,INC72,IND,SCHARFF,H. GREGORY,,,,,Palo Alto,CA,94306,SCHARFF LAW GROUP INC.,ATTORNEY,,,41786,,500.00,,,,,,,,,,,,,,,,,LCR #360A
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41793,,,41640,S497,F497P1,1bWdinASI3mx,IND,cali,mark,,,,,san luis obispo,CA,93405,self,attorney,,,41792,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41793,,,41640,S497,F497P1,ajMFcb3ihBTr,IND,peterson,Donald,,,,,los gatos,CA,95032,mill creek residential,realtor,,,41792,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41793,,,41640,S497,F497P1,RUxXtVeSUiZh,IND,wood,donald,,,,,great falls,VA,22066,federal realty,real estate,,,41792,,1000.00,,,,,,,,,,,,,,,,,
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41793,41792,41792,41793,S497,F497P1,F497P1-128,IND,Bourne,Jill,,,,,San Jose,CA,95110,San Jose Public Library,Librarian,,,41792,,250.00,,,,,,,,,,,,,,,,,LCR-20140602
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41793,41792,41792,41793,S497,F497P1,F497P1-126,IND,Figone,Debra,,,,,San Jose,CA,95126,N/A,Retired,,,41792,,478.59,,,,,,,,,,,,,,,,,LCR-20140602
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41793,41792,41792,41793,S497,F497P1,F497P1-127,OTH,MCM Diversified,,,,,,San Jose,CA,95112,,,,,41792,,16483.83,,,,,,,,,,,,,,,,,LCR-20140602
+1362187,Dave Cortese for Mayor 2014,000,CAO,41793,,,,S497,F497P1,C5591554,COM,International Brotherhood of Electrical Workers Local 569,,,,,,Sacramento,CA,95814-4602,,,,,41792,,1100.00,1342714,,,,,,,,,,,,,,,,50
+1362187,Dave Cortese for Mayor 2014,000,CAO,41793,,,,S497,F497P1,C5591574,COM,Professional Engineers in CA Gov,,,,,,Sacramento,CA,95814,,,,,41792,,1100.00,822501,,,,,,,,,,,,,,,,50
+1362187,Dave Cortese for Mayor 2014,000,CAO,41793,,,,S497,F497P1,C5593374,COM,San Francisco Building and Construction Trades Council,,,,,,Sacramento,CA,95814,,,,,41792,,1000.00,1237101,,,,,,,,,,,,,,,,50
+1362187,Dave Cortese for Mayor 2014,000,CAO,41793,,,,S497,F497P1,C5591621,OTH,"UCP, LLC",,,,,,San Jose,CA,95113,,,,,41792,,1100.00,,,,,,,,,,,,,,,,,50
+1362187,Dave Cortese for Mayor 2014,000,CAO,41793,,,,S497,F497P1,C5591748,COM,Unite Here Tip State & Local Fund,,,,,,New York,NY,10001,,,,,41792,,1100.00,,,,,,,,,,,,,,,,,50
+1359805,Madison Nguyen for Mayor 2014,000,,41792,,,41640,S497,F497P1,eIBWJtp6KDnK,OTH,"T&V Investments & Developments, LLC",,,,,,Los Altos,CA,94024,,,,,41792,,1000.00,,,,,,,,,,,,,,,,,39
+1359805,Madison Nguyen for Mayor 2014,000,,41792,,,41640,S497,F497P1,kuSQtbvjurC6,OTH,"UCP, LLC",,,,,,La Jolla,CA,92037,,,,,41792,,1100.00,,,,,,,,,,,,,,,,,39
+1362187,Dave Cortese for Mayor 2014,000,CAO,41791,,,,S497,F497P1,C5589903,OTH,Pham Radio Comm LLC,,,,,,San Francisco,CA,94122,,,,,41790,,1100.00,,,,,,,,,,,,,,,,,49
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41791,,,,S497,F497P1,INC81,OTH,"PURPLE LEAF, LLC",,,,,,Dallas,TX,94043,,,,,41790,,4000.00,,,,,,,,,,,,,,,,,LCR #430
+1362068,Rose Herrera for Mayor 2014,000,,41790,,,41640,S497,F497P1,J3WVhidjBYku,OTH,D & D Ranch,,,,,,San Jose,CA,95113,,,,,41789,,1100.00,,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41790,,,,S497,F497P1,C5589516,COM,Fresno Police Officers Assn,,,,,,Fresno,CA,93728,,,,,41789,,1100.00,861499,,,,,,,,,,,,,,,,48
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41789,,,,S497,F497P1,INC80,OTH,"PURPLE LEAF, LLC",,,,,,Dallas,TX,94043,,,,,41789,,1000.00,,,,,,,,,,,,,,,,,LCR #417
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5584555,COM,ATU Local 265,,,,,,Campbell,CA,95008-1533,,,,,41787,,1100.00,841330,,,,,,,,,,,,,,,,46
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5585012,IND,Dinh,Kim,,,,,San Jose,CA,95121,Century 21 A1 Network,Real Estate Broker,,,41787,,1000.00,,,,,,,,,,,,,,,,,46
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5585017,IND,Tran,Diana,,,,,San Jose,CA,95121,Century 21 A1 Network,Real Estate Broker,,,41787,,1000.00,,,,,,,,,,,,,,,,,46
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5584917,IND,Vo,Elizabeth,,,,,San Jose,CA,95111,EV Princess Cosmetics,owner,,,41787,,1100.00,,,,,,,,,,,,,,,,,46
+1362068,Rose Herrera for Mayor 2014,000,,41788,,,41640,S497,F497P1,BqdMFDbanYHe,OTH,"Shapell Properties, Inc.",,,,,,Beverly Hills,CA,90211,,,,,41788,,1100.00,,,,,,,,,,,,,,,,,12
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41788,,,41640,S497,F497P1,shHVjqrKjciB,IND,cali,charles,,,,,san jose,CA,95118,retired,retired,,,41787,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41788,,,41640,S497,F497P1,DlvocwT5yfG6,IND,casey,sue,,,,,san jose,CA,95125,retired,retired,,,41787,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41788,,,41640,S497,F497P1,Gj7W8e9TlpbE,OTH,Los Gatos Investments LLC,,,,,,los gatos,CA,95030,,,,,41787,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41788,,,41640,S497,F497P1,HFPjeiaUiZKx,IND,Tersini,Louis,,,,,Los Gatos,CA,95030,retired,retired,,,41787,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41788,,,41640,S497,F497P1,UCg9UiYxICfn,OTH,Xioti & Associates,,,,,,san jose,CA,95118,,,,,41787,,1000.00,,,,,,,,,,,,,,,,,
+1362352,Xavier Campos for City Council 2014,000,CTL,41788,41787,41787,41793,S497,F497P1,F497P1-203,COM,Sheet Metal Workers International Association Local No 104 PAC,,,,,,San Ramon,CA,94583,,,,,41787,,500.00,850381,,,,,,,,,,,,,,,,LCR-20140528
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41788,41787,41787,41793,S497,F497P1,F497P1-125,IND,Schmidt,Robert,,,,,Livermore,CA,94551,Ross Mcdonald Company,VP,,,41787,,2500.00,,,,,,,,,,,,,,,,,LCR-20140528-1
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41788,41787,41787,41793,S497,F497P1,F497P1-122,OTH,California Waste Solutions Inc.,,,,,,San Jose,CA,95133,,,,,41787,,10000.00,,,,,,,,,,,,,,,,,LCR-20140528
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5584555,COM,ATU Local 265,,,,,,Campbell,CA,95008-1533,,,,,41787,,1100.00,841330,,,,,,,,,,,,,,,,46
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5585012,IND,Dinh,Kim,,,,,San Jose,CA,95121,Century 21 A1 Network,Real Estate Broker,,,41787,,1000.00,,,,,,,,,,,,,,,,,46
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5585017,IND,Tran,Diana,,,,,San Jose,CA,95121,Century 21 A1 Network,Real Estate Broker,,,41787,,1000.00,,,,,,,,,,,,,,,,,46
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5584917,IND,Vo,Elizabeth,,,,,San Jose,CA,95111,EV Princess Cosmetics,owner,,,41787,,1100.00,,,,,,,,,,,,,,,,,46
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41788,,,,S497,F497P1,INC76,IND,MEALINSON,GREGG,,,,,Menlo Park,CA,94025,HEWLETT PACKARD,ATTORNEY,,,41788,,1000.00,,,,,,,,,,,,,,,,,LCR #403
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41788,,,,S497,F497P1,INC77,IND,RODRIGUEZ,JASON,,,,,San Jose,CA,95127,HEWLETT PACKARD,VICE PRESIDENT AND CHIEF OF STAFF,,,41788,,1000.00,,,,,,,,,,,,,,,,,LCR #403
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41788,,,,S497,F497P1,INC78,OTH,TRACY AUTO LAND LLC,,,,,,Santa Clara,CA,95034,,,,,41788,,2000.00,,,,,,,,,,,,,,,,,LCR #403
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41788,,,,S497,F497P1,INC75,OTH,CALIFORNIA WATER SERVICE COMPANY,,,,,,San Jose,CA,95112,,,,,41787,,1000.00,,,,,,,,,,,,,,,,,LCR #379
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41788,,,,S497,F497P1,INC74,IND,KENNETH WILCOX,,,,,,Portola Valley,CA,94028,SILICON VALLEY BANK,BANKER,,,41787,,2000.00,,,,,,,,,,,,,,,,,LCR #379
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5580564,IND,Alexander,Richard,,,,,San Jose,CA,95113,"Alexander Hawes, LLP",Attorney,,,41786,,1100.00,,,,,,,,,,,,,,,,,45
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5580489,IND,Reilly,Clint,,,,,San Francisco,CA,94104-1801,Clint Reilly Holdings,President/Chariman,,,41786,,1100.00,,,,,,,,,,,,,,,,,45
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5580496,COM,San Francisco Fire Fighters,,,,,,San Francisco,CA,94103,,,,,41786,,1000.00,810802,,,,,,,,,,,,,,,,45
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5580492,IND,Spiegel,PhilipL,,,,,San Francisco,CA,94103,Clinton Reilly Holdings,VP of Sales,,,41786,,1100.00,,,,,,,,,,,,,,,,,45
+1362187,Dave Cortese for Mayor 2014,000,CAO,41788,,,,S497,F497P1,C5579148,OTH,The Waite Family Trust,,,,,,Rancho Santa Fe,CA,92067,,,,,41786,,1100.00,,,,,,,,,,,,,,,,,45
+1362068,Rose Herrera for Mayor 2014,000,,41786,,,41640,S497,F497P1,ZEVUIDiuHCSE,OTH,"Duino Family Partnerships, LP",,,,,,San Jose,CA,95151,,,,,41785,,1100.00,,,,,,,,,,,,,,,,,11
+1362068,Rose Herrera for Mayor 2014,000,,41786,,,41640,S497,F497P1,VbosFJbjlsA5,IND,Millen,Jennifer,,,,,Campbell,CA,95008,California Concrete Polish,Bookkeeper,,,41785,,1100.00,,,,,,,,,,,,,,,,,11
+1362068,Rose Herrera for Mayor 2014,000,,41786,,,41640,S497,F497P1,VCN8B74VYpRM,OTH,Ventura Finishing Systems,,,,,,Fremont,CA,94538,,,,,41785,,1000.00,,,,,,,,,,,,,,,,,11
+1365924,Silicon Valley Fraternal Order of Police Supporting Magdalena Carrasco and Opposing Xavier Campos for City Council 2014,000,RCP,41786,,,,S497,F497P1,INC5,COM,Neighboorhood Empowerment Coalition,,,,,,Long Beach,CA,90802,,,,,41782,,39193.80,1365355,,,,,,,,,,,,,,,,052714A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41786,,,,S497,F497P1,INC71,IND,BOWERS,ANN,,,,,Palo Alto,CA,94301,RETIRED,RETIRED,,,41785,,5000.00,,,,,,,,,,,,,,,,,LCR #360
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41786,,,,S497,F497P1,INC70,OTH,GORDON BIERSCH BREWING COMPANY,,,,,,San Jose,CA,95113,,,,,41786,,2000.00,,,,,,,,,,,,,,,,,LCR #360
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41786,,,,S497,F497P1,INC73,IND,GUARDINO,CARL THOMAS,,,,,Monte Sereno,CA,95030,SILICON VALLEY LEADERSHIP GROUP,CEO,,,41786,,1000.00,,,,,,,,,,,,,,,,,LCR #360
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41786,41786,41786,41793,S497,F497P1,F497P1-120,COM,San Jose Silicon Valley Chamber of Commerce PAC,,,,,,Encinitas,CA,92024,,,,,41786,,1000.00,820668,,,,,,,,,,,,,,,,LCR-20140527
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41786,41786,41786,41793,S497,F497P1,F497P1-119,OTH,Valley Management Group,,,,,,San Jose,CA,95126,,,,,41786,,250.00,,,,,,,,,,,,,,,,,LCR-20140527
+1362352,Xavier Campos for City Council 2014,000,CTL,41785,41783,41783,41793,S497,F497P1,F497P1-201,COM,Gray for Assembly 2014,,,,,,Sacramento,CA,95814,,,,,41783,,500.00,1354868,,,,,,,,,,,,,,,,LCR-20140524
+1362352,Xavier Campos for City Council 2014,000,CTL,41785,41784,41784,41793,S497,F497P1,F497P1-200,IND,Fong,Paul,,,,,San Jose,CA,95117,State of California,Assemblymember,,,41784,,250.00,,,,,,,,,,,,,,,,,LCR-20140525
+1362352,Xavier Campos for City Council 2014,000,CTL,41785,41784,41784,41793,S497,F497P1,F497P1-199,IND,Spiegel,David,,,,,Woodland Hills,CA,91364,Spiegel Development Inc.,Real Estate Developer,,,41784,,500.00,,,,,,,,,,,,,,,,,LCR-20140525
+1362187,Dave Cortese for Mayor 2014,000,CAO,41784,,,,S497,F497P1,C5577596,IND,Molinaro,RobertJ,,,,,Pleasanton,CA,94566,Pleasanton Garbage Service,Owner,,,41783,,1100.00,,,,,,,,,,,,,,,,,44
+1362187,Dave Cortese for Mayor 2014,000,CAO,41784,,,,S497,F497P1,C5577583,OTH,Trumark Homes LLC,,,,,,Danville,CA,94506,,,,,41783,,1100.00,,,,,,,,,,,,,,,,,44
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41783,41782,41782,41793,S497,F497P1,F497P1-115,IND,Fiscalini,Frank,,,,,San Jose,CA,95128,N/A,Retired,,,41782,,250.00,,,,,,,,,,,,,,,,,LCR-20140523
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41783,41782,41782,41793,S497,F497P1,F497P1-114,OTH,Friends of the Almaden Library,,,,,,San Jose,CA,95120,,,,,41782,,3000.00,,,,,,,,,,,,,,,,,LCR-20140523
+1362187,Dave Cortese for Mayor 2014,000,CAO,41783,,,,S497,F497P1,C5576605,COM,Chsta PAC,,,,,,San Jose,CA,95124,,,,,41782,,1100.00,,,,,,,,,,,,,,,,,43
+1362187,Dave Cortese for Mayor 2014,000,CAO,41783,,,,S497,F497P1,C5577099,COM,Deputy Sheriffs Association of Alameda County,,,,,,Sacramento,CA,95814,,,,,41782,,1100.00,1267583,,,,,,,,,,,,,,,,43
+1362187,Dave Cortese for Mayor 2014,000,CAO,41783,,,,S497,F497P1,C5577039,IND,Manchester,CraigA,,,,,Newport Beach,CA,92660,"Integral Management, Inc.",President,,,41782,,1100.00,,,,,,,,,,,,,,,,,43
+1362187,Dave Cortese for Mayor 2014,000,CAO,41783,,,,S497,F497P1,C5577038,OTH,"The Fremont Project Owner, LP",,,,,,Newport Beach,CA,92660,,,,,41782,,1100.00,,,,,,,,,,,,,,,,,43
+1362187,Dave Cortese for Mayor 2014,000,CAO,41783,,,,S497,F497P1,C5577035,OTH,"The GreenBriar Project Owner, LP",,,,,,Newport Beach,CA,92660,,,,,41782,,1100.00,,,,,,,,,,,,,,,,,43
+1362187,Dave Cortese for Mayor 2014,000,CAO,41782,,,,S497,F497P1,C5576661,IND,Japra,RomeshK.,,,,,Fremont,CA,94539-6091,Pacific Cardiology Associates,cardiologist,,,41781,,1100.00,,,,,,,,,,,,,,,,,42
+1362187,Dave Cortese for Mayor 2014,000,CAO,41782,,,,S497,F497P1,C5576591,OTH,Pacific States Industries,,,,,,Morgan Hill,CA,95037,,,,,41781,,1100.00,,,,,,,,,,,,,,,,,42
+1362187,Dave Cortese for Mayor 2014,000,CAO,41782,,,,S497,F497P1,C5576601,OTH,"Pacific States Treating, Inc",,,,,,Weed,CA,96094,,,,,41781,,1100.00,,,,,,,,,,,,,,,,,42
+1362187,Dave Cortese for Mayor 2014,000,CAO,41782,,,,S497,F497P1,C5576578,OTH,Ret Trucking,,,,,,Morgan Hill,CA,95038,,,,,41781,,1100.00,,,,,,,,,,,,,,,,,42
+1362068,Rose Herrera for Mayor 2014,000,,41782,,,41640,S497,F497P1,zJbDF2xTiiib,IND,Dhaliwal,Satinderjit,,,,,San Jose,CA,95127,VISA USA,Software Engineer,,,41782,,1100.00,,,,,,,,,,,,,,,,,10
+1362068,Rose Herrera for Mayor 2014,000,,41782,,,41640,S497,F497P1,g8GFVZ29AYMs,IND,Sohal,Parvin,,,,,San Jose,CA,95131,United States Postal Service,Supervisor- Customer Service,,,41782,,1100.00,,,,,,,,,,,,,,,,,10
+1362068,Rose Herrera for Mayor 2014,000,,41781,,,41640,S497,F497P1,UmBTyffAOzVX,IND,Badwal,Narinder,,,,,San Jose,CA,95138,Narinder Badwal Real Estate,Real Estate,,,41780,,1100.00,,,,,,,,,,,,,,,,,9
+1362068,Rose Herrera for Mayor 2014,000,,41781,,,41640,S497,F497P1,eeqhsE3d71Jm,IND,Fernandez,Rufino,,,,,East Palo Alto,CA,94303,"Rufino O. Fernandez, Handyman",Owner,,,41781,,1100.00,,,,,,,,,,,,,,,,,9
+1362187,Dave Cortese for Mayor 2014,000,CAO,41781,,,,S497,F497P1,C5570694,IND,Pomerleau,PeterE,,,,,San Jose,CA,95127,SJ POA,Director,,,41780,,1000.00,,,,,,,,,,,,,,,,,41
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41781,41780,41780,41793,S497,F497P1,F497P1-113,IND,Muller,Kathleen,,,,,San Jose,CA,95125,Kathleen Muller  Consultant,Consultant,,,41780,,250.00,,,,,,,,,,,,,,,,,LCR-20140521
+1362352,Xavier Campos for City Council 2014,000,CTL,41781,41780,41780,41793,S497,F497P1,F497P1-197,COM,United Food & Commercial Workers Local 5 PAC,,,,,,San Jose,CA,95113,,,,,41780,,250.00,1294035,,,,,,,,,,,,,,,,LCR-20140521
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41781,41779,41779,41793,S497,F497P1,F497P1-112,IND,Crider,Pamela,,,,,San Jose,CA,95118,City of San Jose,Librarian,,,41779,,250.00,,,,,,,,,,,,,,,,,LCR-20140520
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),000,RCP,41781,,,,S497,F497P2,EXP7681,COM,Yes on Measure B - Save San Jose Libraries,,,,,,San Jose,CA,95172-0878,,,,,41781,,1000.00,1362030,Yes on Measure B - Save San Jose Libraries,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41780,,,41640,S497,F497P1,cuDAXutbhyNU,IND,Sohal,Jasvinder,,,,,San Jose,CA,95133,Hayward Unified School District,Purchasing Manager,,,41780,,1100.00,,,,,,,,,,,,,,,,,8
+1362068,Rose Herrera for Mayor 2014,000,,41780,,,41640,S497,F497P1,aSKNAbyXiUge,IND,Sohal,Ravinder,,,,,San Jose,CA,95133,Union School District,Assistant Superintendent,,,41780,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41780,,,,S497,F497P1,C10037893,IND,Giannini,GaryV.,,,,,San Jose,CA,95113,Self-Employed,Attorney,,,41779,,1100.00,,,,,,,,,,,,,,,,,25
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41780,,,,S497,F497P1,C10037894,IND,McManis,James,,,,,Los Gatos,CA,95030-,"McManis, Faulkner & Morgan",Attorney,,,41779,,1100.00,,,,,,,,,,,,,,,,,25
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41780,,,,S497,F497P1,INC57,OTH,NORMANDIN CHRYSLER JEEP DODGE,,,,,,San Jose,CA,95136,,,,,41780,,5000.00,,,,,,,,,,,,,,,,,LCR #315
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41780,,,,S497,F497P1,INC58,IND,SURACE,KEVIN,,,,,Sunnyvale,CA,94086,APPVANCE,CEO,,,41780,,1000.00,,,,,,,,,,,,,,,,,LCR #315
+1359805,Madison Nguyen for Mayor 2014,000,,41779,,,41640,S497,F497P1,V7GR8zZfROQN,IND,Kendrick,Kanahl,,,,,Los Gatos,CA,95032,Women's Care for Life,Business Manager,,,41779,,1100.00,,,,,,,,,,,,,,,,,38
+1359805,Madison Nguyen for Mayor 2014,000,,41779,,,41640,S497,F497P1,bKpb7ielV4Rc,IND,Vuong,Kevin,,,,,San Jose,CA,95121,K& S Realty,Realtor,,,41779,,1000.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41779,,,,S497,F497P1,C5566990,OTH,"6150 Hellyer, LLC",,,,,,San Jose,CA,95138,,,,,41778,,1100.00,,,,,,,,,,,,,,,,,40
+1362187,Dave Cortese for Mayor 2014,000,CAO,41779,,,,S497,F497P1,C5566898,COM,Anaheim Police Officers PAC,,,,,,Sacramento,CA,95814,,,,,41778,,1100.00,841170,,,,,,,,,,,,,,,,40
+1362187,Dave Cortese for Mayor 2014,000,CAO,41779,,,,S497,F497P1,C5566989,OTH,Kapoor Enterprises,,,,,,Milpitas,CA,95035,,,,,41778,,1000.00,,,,,,,,,,,,,,,,,40
+1362187,Dave Cortese for Mayor 2014,000,CAO,41779,,,,S497,F497P1,C5566988,IND,Kapoor,JagjeetS.,,,,,San Jose,CA,95138,Bonfair Market,Owner,,,41778,,1000.00,,,,,,,,,,,,,,,,,40
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41779,,,,S497,F497P1,INC55,IND,SEGE,RONALD,,,,,Menlo Park,CA,94025,ECHELON CORP,CEO,,,41779,,5000.00,,,,,,,,,,,,,,,,,LCR #306
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41779,,,,S497,F497P1,INC54,IND,BINGHAM,RAYMOND,,,,,Woodside,CA,94062,GENERAL ATLANTIC,ADVISORY DIRECTOR,,,41778,,9400.00,,,,,,,,,,,,,,,,,LCR #305
+1362068,Rose Herrera for Mayor 2014,000,,41778,,,41640,S497,F497P1,hdvNUvzRApFd,IND,Bhatia,Jasraj,,,,,San Jose,CA,95138,Yellow Cab Company,Driver,,,41778,,1100.00,,,,,,,,,,,,,,,,,7
+1362068,Rose Herrera for Mayor 2014,000,,41778,,,41640,S497,F497P1,jAqfwUhW9Ebm,IND,Grewal,Manjit,,,,,San Jose,CA,95116,Kwikee Mart,Shift Manager,,,41778,,1100.00,,,,,,,,,,,,,,,,,7
+1362068,Rose Herrera for Mayor 2014,000,,41778,,,41640,S497,F497P1,TfGX9g85eiie,OTH,Kwikee Mart,,,,,,San Jose,CA,95116,,,,,41778,,1100.00,,,,,,,,,,,,,,,,,7
+1362068,Rose Herrera for Mayor 2014,000,,41778,,,41640,S497,F497P1,BSSQyIKYSzqj,OTH,Mt. Pleasant Bottle Shop,,,,,,San Jose,CA,95127,,,,,41778,,1100.00,,,,,,,,,,,,,,,,,7
+1362068,Rose Herrera for Mayor 2014,000,,41778,,,41640,S497,F497P1,sqtEXyFiWxUD,IND,Singh,Navtej,,,,,Santa Clara,CA,95050,Orange Cab Taxi Company,Driver,,,41778,,1100.00,,,,,,,,,,,,,,,,,7
+1362187,Dave Cortese for Mayor 2014,000,CAO,41777,,,,S497,F497P1,C5566985,OTH,Bob's Almaden Transmission,,,,,,San Jose,CA,95125,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,39
+1362187,Dave Cortese for Mayor 2014,000,CAO,41777,,,,S497,F497P1,C5566309,IND,Hudson,Daniel,,,,,Campbell,CA,95008,Self-Employed,Real Estate Developer,,,41776,,1100.00,,,,,,,,,,,,,,,,,39
+1362187,Dave Cortese for Mayor 2014,000,CAO,41777,,,,S497,F497P1,C5566986,OTH,"Mid-State Electric, Inc",,,,,,San Jose,CA,95124,,,,,41776,,1000.00,,,,,,,,,,,,,,,,,39
+1362187,Dave Cortese for Mayor 2014,000,CAO,41777,,,,S497,F497P1,C5566296,OTH,San Jose Taxi Drivers Association,,,,,,San Jose,CA,95111,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,39
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41778,,,,S497,F497P1,INC50,IND,SMITH,LONNIE,,,,,Saratoga,CA,95070,RETIRED,RETIRED,,,41778,,5000.00,,,,,,,,,,,,,,,,,LCR #287
+1359805,Madison Nguyen for Mayor 2014,001,,41776,,,41640,S497,F497P1,vOdXkstmYigL,OTH,"Angio Biosciences, Inc.",,,,,,San Jose,CA,95131,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,001,,41776,,,41640,S497,F497P1,iOGeYcQfybQg,IND,Anh,My Tang,,,,,Santa Clara,CA,95050,,Homemaker,,,41776,,1000.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,001,,41776,,,41640,S497,F497P1,uYTwMPHi9xgB,IND,Hudson,Daniel,,,,,Campbell,CA,95008,Hudson Corporation,Real Estate Development,,,41776,,1100.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,001,,41776,,,41640,S497,F497P1,SDhusejUXr8h,OTH,"Khanh's Cuisine, Inc.",,,,,,San Jose,CA,95128,,,,,41776,,1000.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,001,,41776,,,41640,S497,F497P1,5DQ5h7xbBcpo,OTH,"United Mirakone, Inc.",,,,,,San Jose,CA,95131,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,37
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,qHpPSRUeXu1i,IND,Bothman,Robert,,,,,san jose,CA,95112,Robert Bothman Inc,Businessman,,,41776,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,DBAgGijxkI5j,IND,caruso,christopher,,,,,san jose,CA,95120,Live Oak Academy,Teacher,,,41776,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,f1V9IrtnAUmq,IND,Davidson,Sandra,,,,,san jose,CA,95125,DKD Property Managment,Manager,,,41776,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,sjvr25j68Cmr,IND,Gray,Sarah,,,,,san jose,CA,95124,homemaker,homemaker,,,41776,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,Teelg9JM4UGM,IND,jones,steven,,,,,discovery bay,CA,94505,Garden City Sanitation,General Manager,,,41776,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,nnvc5Yvw8oHZ,IND,Marine,Ray,,,,,san martin,CA,95046,Fidelity National Title,VP,,,41776,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41777,,,41640,S497,F497P1,jyqWWQpwDhCA,IND,Silva,Larry,,,,,san jose,CA,95112,yellow cab,president,,,41776,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41776,,,41640,S497,F497P1,vOdXkstmYigL,OTH,"Angio Biosciences, Inc.",,,,,,San Jose,CA,95131,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,000,,41776,,,41640,S497,F497P1,iOGeYcQfybQg,IND,Anh,My Tang,,,,,Santa Clara,CA,95050,,Homemaker,,,41776,,1000.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,000,,41776,,,41640,S497,F497P1,4U2waDPEQxCD,IND,Do,Don,,,,,Modesto,CA,95356,Advance Design Architects,Architect,,,41776,,1050.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,000,,41776,,,41640,S497,F497P1,uYTwMPHi9xgB,IND,Hudson,Daniel,,,,,Campbell,CA,95008,Hudson Corporation,Real Estate Development,,,41776,,1100.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,000,,41776,,,41640,S497,F497P1,SDhusejUXr8h,OTH,"Khanh's Cuisine, Inc.",,,,,,San Jose,CA,95128,,,,,41776,,1000.00,,,,,,,,,,,,,,,,,37
+1359805,Madison Nguyen for Mayor 2014,000,,41776,,,41640,S497,F497P1,5DQ5h7xbBcpo,OTH,"United Mirakone, Inc.",,,,,,San Jose,CA,95131,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,37
+1362187,Dave Cortese for Mayor 2014,000,CAO,41776,,,,S497,F497P1,C5563565,IND,Banks,Edward,,,,,San Jose,CA,95148-0000,Conway Freight,Delivery Person,,,41775,,1100.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41776,,,,S497,F497P1,C5563569,IND,Banks,Kyle,,,,,San Jose,CA,95148,None,Student,,,41775,,1100.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41776,,,,S497,F497P1,C5563560,IND,Cortese,Cheryl,,,,,San Jose,CA,95148,Retired,Retired,,,41775,,1100.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41776,,,,S497,F497P1,C5563553,IND,Cortese,Karl,,,,,San Jose,CA,95148,Retired,Retired,,,41775,,1100.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41776,,,,S497,F497P1,C5563563,IND,Cortese-Banks,Kristina,,,,,San Jose,CA,95148-0000,International Paper,Office Manager,,,41775,,1100.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41776,,,,S497,F497P1,C5564076,COM,Peace Officers Research Association of California,,,,,,Sacramento,CA,95834-3725,,,,,41775,,1100.00,810830,,,,,,,,,,,,,,,,38
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41776,41775,41775,41793,S497,F497P1,F497P1-109,OTH,The San Jose Flea Market,,,,,,San Jose,CA,95133,,,,,41775,,5000.00,,,,,,,,,,,,,,,,,LCR-20140516
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41776,,,41640,S497,F497P1,ykqjAM8wRbXh,IND,Pena,Cindy,,,,,san jose,CA,95120,Green Waste,Manager,,,41775,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41776,,,41640,S497,F497P1,2zdpttayFaeq,OTH,Reed & Graham,,,,,,san jose,CA,95126,,,,,41775,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41776,,,41640,S497,F497P1,ShUgwjd6xX5g,IND,Weigel,Frank,,,,,san jose,CA,95112,GreenWaste,Manager,,,41775,,1100.00,,,,,,,,,,,,,,,,,
+1362068,Rose Herrera for Mayor 2014,000,,41776,,,41640,S497,F497P1,bWIbXzYtKyKV,OTH,Tropicana Liquors,,,,,,San Jose,CA,95127,,,,,41776,,1100.00,,,,,,,,,,,,,,,,,6
+1362068,Rose Herrera for Mayor 2014,000,,41775,,,41640,S497,F497P1,meibOInyI7PF,IND,Takhar,Amrik,,,,,San Jose,CA,95121,Seven Trees 7-11,Night Manager,,,41774,,1100.00,,,,,,,,,,,,,,,,,5
+1362068,Rose Herrera for Mayor 2014,000,,41775,,,41640,S497,F497P1,pPAEVOrUuiNG,IND,Takhar,Jaswant,,,,,San Jose,CA,95121,"Cardiva Medical, Inc.",Assembler,,,41774,,1100.00,,,,,,,,,,,,,,,,,5
+1362068,Rose Herrera for Mayor 2014,000,,41775,,,41640,S497,F497P1,nnzJOlBWJRfO,IND,Takhar,Preemjeet,,,,,San Jose,CA,95121,NAVGround Packaging Industries,Driver,,,41774,,1100.00,,,,,,,,,,,,,,,,,5
+1362068,Rose Herrera for Mayor 2014,000,,41775,,,41640,S497,F497P1,H5LuWdkDCvEH,IND,Takhar,Satander,,,,,San Jose,CA,95121,Sanmina Corp.,Manufacturing Technician,,,41774,,1100.00,,,,,,,,,,,,,,,,,5
+1362068,Rose Herrera for Mayor 2014,000,,41775,,,41640,S497,F497P1,DorNivSzJPcj,OTH,Cambridge Management Company,,,,,,Santa Clara,CA,95054,,,,,41775,,1100.00,,,,,,,,,,,,,,,,,5
+1362068,Rose Herrera for Mayor 2014,000,,41775,,,41640,S497,F497P1,pOD2gR7GwPBv,OTH,HMH Engineers,,,,,,San Jose,CA,95131,,,,,41775,,1100.00,,,,,,,,,,,,,,,,,5
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41775,,,41640,S497,F497P1,O1TPsC6GU5v4,IND,Cristina,Diane,,,,,san jose,CA,95124,retired,retired,,,41774,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41775,,,41640,S497,F497P1,jdeb9fvZRDYt,OTH,Design Acquistion Corporation,,,,,,san jose,CA,95113,,,,,41774,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41775,,,41640,S497,F497P1,JNqdQEKXdBro,OTH,Graham Contractors,,,,,,san jose,CA,95159,,,,,41774,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41775,,,41640,S497,F497P1,bL5u4CGkgh3B,IND,Rubinitz,James,,,,,Monte Sereno,CA,95030,self,real estate,,,41774,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,39vxGCKyUpez,OTH,"Advanced Surgical Associates- A Medical Group, Inc.",,,,,,San Jose,CA,95116,,,,,41775,,1000.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,wrvkJ4GJmlWI,IND,Cuevas,Francisco,,,,,San Jose,CA,95138,"Transpak, Inc.",Sales Associate,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,nRVNvhjW6KCz,IND,Dang,Nga Hong,,,,,San Jose,CA,95148,Kaiser Permanente,Accountant,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,wUAh3J3u57Ni,IND,Dang,Thao,,,,,San Jose,CA,95138,Century 21 Alpha,Broker,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,yfxzyUdM93A8,OTH,"Davne Investments, LLC.",,,,,,San Jose,CA,95113,,,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,FB5RpRhTWQQi,OTH,GBI Evergreen LLC,,,,,,Biloxi,MS,39530,,,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,TumCzXaAS1cf,IND,Le,Thang,,,,,San Jose,CA,95138,Lee's Sandwiches,Partner,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,hKwahwf2K7od,IND,Lee,Chris,,,,,San Jose,CA,95127,"Transpak, Inc.",Manager,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,Sx9X23BiBTy6,IND,Pham,Liem Thanh,,,,,San Jose,CA,95132,Liem Pham Construction,General Contractor,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,fexnfQHXO5Pc,IND,Pham,Minh Anh,,,,,San Jose,CA,95116,Golden Bay Investments,Bookkeeper,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,IT9FQvWJdkYA,IND,Quach,Nguyen D,,,,,Mesa,AZ,85274,"Oracle, Inc.",Engineer,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,IGjBOqNdeywi,OTH,Ta's Healing Center,,,,,,San Jose,CA,95128,,,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,bknsdoQMRNCI,IND,Tran,Tuan,,,,,Diberville,MS,39540,Henry's Cafe& Bakery,General Manager,,,41775,,1000.00,,,,,,,,,,,,,,,,,36
+1359805,Madison Nguyen for Mayor 2014,000,,41775,,,41640,S497,F497P1,rIKYzxhjlwCG,IND,Walstrom,Donna,,,,,Los Altos,CA,94022,"Transpak, Inc.",Corporate Controller,,,41775,,1100.00,,,,,,,,,,,,,,,,,36
+1362187,Dave Cortese for Mayor 2014,000,CAO,41775,,,,S497,F497P1,C5561247,IND,Jaka,Abdul,,,,,San Jose,CA,95148-2136,Intero Real  Estate Services,Real Estate Broker,,,41774,,1100.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41775,,,,S497,F497P1,C5561175,IND,Quach,Tam,,,,,Milpitas,CA,95035,GD Commerica R.E,Real Estate,,,41774,,1000.00,,,,,,,,,,,,,,,,,38
+1362187,Dave Cortese for Mayor 2014,000,CAO,41775,,,,S497,F497P1,C5561176,OTH,ZX Development LLC,,,,,,San Bruno,CA,94066,,,,,41774,,1000.00,,,,,,,,,,,,,,,,,38
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41774,,,41640,S497,F497P1,X55equSbwAbx,IND,Arioto,GC,,,,,san jose,CA,95125,retired,retired,,,41773,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41774,,,41640,S497,F497P1,yicg3UUQouwr,IND,Hudson,Dan,,,,,campbell,CA,95008,Self,Real Estate,,,41773,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41774,,,41640,S497,F497P1,RjRDI3VaRRjH,OTH,Riparbelli Family Partners,,,,,,san jose,CA,95159,,,,,41773,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41774,,,41640,S497,F497P1,3WxmqDVhhwJv,IND,Teifeld,Dennis,,,,,san jose,CA,95112,Teifeld & Co,Insurance,,,41773,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41774,,,41640,S497,F497P1,h7FIeVfMiA65,IND,Ho,Tsai Luan,,,,,Atherton,CA,94027,Atherton Pacific Group,Manager,,,41774,,1100.00,,,,,,,,,,,,,,,,,35
+1359805,Madison Nguyen for Mayor 2014,000,,41774,,,41640,S497,F497P1,Rwq3jcMdy2Y7,IND,Luong,My V D,,,,,Santa Clara,CA,95051,"DMNLuong Investments, LLC",President,,,41774,,1100.00,,,,,,,,,,,,,,,,,35
+1359805,Madison Nguyen for Mayor 2014,000,,41774,,,41640,S497,F497P1,CcF9BMLCOfoR,OTH,Tran& Company,,,,,,San Francisco,CA,94108,,,,,41774,,1000.00,,,,,,,,,,,,,,,,,35
+1359805,Madison Nguyen for Mayor 2014,000,,41774,,,41640,S497,F497P1,oRO7PrHnDPuD,OTH,"Westcoast Precision, Inc.",,,,,,San Jose,CA,95131,,,,,41774,,1100.00,,,,,,,,,,,,,,,,,35
+1362187,Dave Cortese for Mayor 2014,000,CAO,41774,,,,S497,F497P1,C5560862,COM,Sacramento County Deputy Sheriffs Association,,,,,,Sacramento,CA,95811,,,,,41773,,1100.00,781626,,,,,,,,,,,,,,,,37
+1362187,Dave Cortese for Mayor 2014,000,CAO,41774,,,,S497,F497P1,C5561143,COM,SEIU Local 521,,,,,,San Jose,CA,95133,,,,,41773,,1100.00,1297708,,,,,,,,,,,,,,,,37
+1362187,Dave Cortese for Mayor 2014,000,CAO,41774,,,,S497,F497P1,C5560863,IND,Wang,T. Chester,,,,,Los Altos Hills,CA,94022-1934,acorn campus ventures,VC,,,41773,,1000.00,,,,,,,,,,,,,,,,,37
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41774,,,,S497,F497P1,INC47,IND,CONWAY,RONALD,,,,,San Francisco,CA,94103,SV ANGEL LLC,INVESTOR,,,41774,,10000.00,,,,,,,,,,,,,,,,,LCR #263
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41773,,,41640,S497,F497P1,9geWmk1ZvbPl,IND,Arioto,Barbara,,,,,Pleasanton,CA,94588,retired,retired,,,41772,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41773,,,41640,S497,F497P1,MV2J4SHNsWuu,OTH,SDC,,,,,,SAn Jose,CA,95112,,,,,41772,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41773,,,41640,S497,F497P1,AsSB6cMt9hnG,IND,Singh,Balwant,,,,,Santa Clara,CA,95050,Chevron Gas Santa Clara,Manager,,,41773,,1000.00,,,,,,,,,,,,,,,,,34
+1359805,Madison Nguyen for Mayor 2014,000,,41773,,,41640,S497,F497P1,9b5uoaYQbRdj,OTH,"Super Micro Computer, Inc.",,,,,,San Jose,CA,95131,,,,,41773,,1100.00,,,,,,,,,,,,,,,,,34
+1359805,Madison Nguyen for Mayor 2014,000,,41773,,,41640,S497,F497P1,EULPBWkP26VL,IND,Turiello,Anthony,,,,,San Carlos,CA,94070,"Rescueair, Inc.",Chief Executive Officer,,,41773,,1100.00,,,,,,,,,,,,,,,,,34
+1362187,Dave Cortese for Mayor 2014,000,CAO,41773,,,,S497,F497P1,C5558347,OTH,AFSCME Local 101,,,,,,San Jose,CA,,,,,,41772,,1100.00,,,,,,,,,,,,,,,,,36
+1362187,Dave Cortese for Mayor 2014,000,CAO,41773,,,,S497,F497P1,C5558348,COM,AFSCME Local 57,,,,,,Oakland,CA,94621,,,,,41772,,1100.00,,,,,,,,,,,,,,,,,36
+1362187,Dave Cortese for Mayor 2014,000,CAO,41773,,,,S497,F497P1,C5558162,OTH,McManis Faulkner,,,,,,San Jose,CA,95113-2429,,,,,41772,,1100.00,,,,,,,,,,,,,,,,,36
+1362187,Dave Cortese for Mayor 2014,000,CAO,41773,,,,S497,F497P1,C5558168,IND,McManis,James,,,,,Los Gatos,CA,95030,McManis Faulkner,Attorney,,,41772,,1100.00,,,,,,,,,,,,,,,,,36
+1362187,Dave Cortese for Mayor 2014,000,CAO,41773,,,,S497,F497P1,C5557868,IND,Naillon,Gary,,,,,San Jose,CA,95118-2627,Guggenheim Reality,COO,,,41772,,1100.00,,,,,,,,,,,,,,,,,36
+1362187,Dave Cortese for Mayor 2014,000,CAO,41773,,,,S497,F497P1,C5557964,IND,Roberson,David,,,,,San Jose,CA,95129,"Law Office of Rossi, Hamerslough, Reischland Chuck",Attorney,,,41772,,1100.00,,,,,,,,,,,,,,,,,36
+1362111,Paul Fong for San Jose City Council 2014,000,CTL,41773,,,,S497,F497P1,INC356,IND,Fong,Paul,,,,,San Jose,CA,95117,California State Assembly,Assemblymember,,,41768,,14000.00,,,,,,,,,,,,,,,,,2014-05-14
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,CTL,41773,,,,S497,F497P1,INC46,IND,PARKER,SEAN,,,,,Palo Alto,CA,94301,SELF EMPLOYED,ENTREPRENEUR,,,41773,,20000.00,,,,,,,,,,,,,,,,,LCR #256
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41772,,,41640,S497,F497P1,cxOQtZIxZEaY,IND,Hudson,Robert,,,,,Monte Sereno,CA,95032,retired,retired,,,41771,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41772,,,41640,S497,F497P1,j1zjej9kt8eE,IND,Jennings,Brett,,,,,san jose,CA,95125,TheBrettJenningsTeam,Realtor,,,41771,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41772,,,41640,S497,F497P1,F2jGhhv1TQZx,IND,Tsai,Susan,,,,,Palo Alto,CA,94303,Small Business Owner,JingJing,,,41771,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41772,,,41640,S497,F497P1,hdBaEXVcR7Lx,OTH,ZAF Investments,,,,,,san jose,CA,95128,,,,,41771,,1100.00,,,,,,,,,,,,,,,,,
+1362187,Dave Cortese for Mayor 2014,01,CAO,41772,,,,S497,F497P1,C5553559,COM,CDF Firefighters,,,,,,Sacramento,CA,95811,,,,,41767,,1100.00,790318,,,,,,,,,,,,,,,,35
+1362187,Dave Cortese for Mayor 2014,01,CAO,41772,,,,S497,F497P1,C5553560,IND,Chan,Anita,,,,,Milpitas,CA,95035,Retired,Retired,,,41767,,1000.00,,,,,,,,,,,,,,,,,35
+1362187,Dave Cortese for Mayor 2014,01,CAO,41772,,,,S497,F497P1,C5553557,COM,Engineers & Scientists of California Local 20,,,,,,San Francisco,CA,94103,,,,,41767,,1100.00,861160,,,,,,,,,,,,,,,,35
+1362187,Dave Cortese for Mayor 2014,01,CAO,41772,,,,S497,F497P1,C5553556,OTH,Evergreen Surgery Center LLC,,,,,,San Jose,CA,95148,,,,,41767,,1000.00,,,,,,,,,,,,,,,,,35
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41771,41771,41771,41793,S497,F497P1,F497P1-92,OTH,Waste Connections Inc.,,,,,,The Woodlands,TX,77380,,,,,41771,,5000.00,,,,,,,,,,,,,,,,,LCR-20140512
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41771,,,,S497,F497P1,INC38,IND,BALL,ANDREW J.,,,,,Piedmont,CA,94611,SUFFOLK CONSTRUCTION,PRESIDENT,,,41771,,5000.00,,,,,,,,,,,,,,,,,LCR #246
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41771,,,,S497,F497P1,INC39,IND,GUARDINO,CARL THOMAS,,,,,Monte Sereno,CA,95030,SILICON VALLEY LEADERSHIP GROUP,CEO,,,41771,,1000.00,,,,,,,,,,,,,,,,,LCR #246
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41771,,,,S497,F497P1,INC37,IND,WARMENHOVEN,DANIEL,,,,,Monte Sereno,CA,95030,RETIRED,RETIRED,,,41770,,20000.00,,,,,,,,,,,,,,,,,LCR #245
+1359805,Madison Nguyen for Mayor 2014,000,,41770,,,41640,S497,F497P1,ziAQqfrmC5HP,IND,Keller,Kristine,,,,,San Jose,CA,95135,Hands for Science,Teacher,,,41769,,1100.00,,,,,,,,,,,,,,,,,33
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41769,,,41640,S497,F497P1,gedIPZEH9HvO,OTH,Good Home Real Estate Investment,,,,,,palo alto,CA,94306,,,,,41768,,1100.00,,,,,,,,,,,,,,,,,
+1362187,Dave Cortese for Mayor 2014,000,CAO,41769,,,,S497,F497P1,C5555628,COM,Construction & General Laborers Local Union 304,,,,,,Sacramento,CA,95814,,,,,41768,,1000.00,902565,,,,,,,,,,,,,,,,33
+1362187,Dave Cortese for Mayor 2014,000,CAO,41769,,,,S497,F497P1,C5555630,COM,Laborers Local 300,,,,,,Los Angeles,CA,90020,,,,,41768,,1100.00,950674,,,,,,,,,,,,,,,,33
+1362187,Dave Cortese for Mayor 2014,000,CAO,41769,,,,S497,F497P1,C5555632,COM,Northern California District Council of Laborers,,,,,,Sacramento,CA,95814,,,,,41768,,1100.00,1243030,,,,,,,,,,,,,,,,33
+1362187,Dave Cortese for Mayor 2014,000,CAO,41769,,,,S497,F497P1,C5555627,COM,San Francisco Laborer's Local 261,,,,,,San Francisco,CA,94110,,,,,41768,,1100.00,981076,,,,,,,,,,,,,,,,33
+1362187,Dave Cortese for Mayor 2014,000,CAO,41769,,,,S497,F497P1,C5553945,IND,Souza,Joe,,,,,San Jose,CA,95127-4420,"A-1 Fence, Inc.",President,,,41768,,1100.00,,,,,,,,,,,,,,,,,33
+1362187,Dave Cortese for Mayor 2014,000,CAO,41769,,,,S497,F497P1,C5553950,IND,Souza,Peggy,,,,,San Jose,CA,95138-2465,"A-1 Fence, Inc.",Vice President,,,41768,,1100.00,,,,,,,,,,,,,,,,,33
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41768,,,41640,S497,F497P1,ybKfdp61ZhWu,IND,Spieker,Tod,,,,,San Carlos,CA,94303,Spieker Properties,Real Estate,,,41767,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41768,,,41640,S497,F497P1,vu82bgC3Hsiu,IND,Liu,Hung-Fan,,,,,Fremont,CA,94539,"Super Micro Computer, Inc.",Sr. Director of Server Intergration,,,41768,,1100.00,,,,,,,,,,,,,,,,,32
+1362187,Dave Cortese for Mayor 2014,000,CAO,41768,,,,S497,F497P1,C5553559,COM,CDF Firefighters,,,,,,Sacramento,CA,95811,,,,,41767,,1100.00,790318,,,,,,,,,,,,,,,,32
+1362187,Dave Cortese for Mayor 2014,000,CAO,41768,,,,S497,F497P1,C5553560,IND,Chan,Anita,,,,,Milpitas,CA,95035,Retired,Retired,,,41767,,1000.00,,,,,,,,,,,,,,,,,32
+1362187,Dave Cortese for Mayor 2014,000,CAO,41768,,,,S497,F497P1,C5553557,COM,Engineers & Scientists of California Local 20,,,,,,San Francisco,CA,94103,,,,,41767,,1100.00,861160,,,,,,,,,,,,,,,,32
+1362187,Dave Cortese for Mayor 2014,000,CAO,41768,,,,S497,F497P1,C5553556,OTH,Evergreen Surgery Center LLC,,,,,,San Jose,CA,95148,,,,,41767,,1000.00,,,,,,,,,,,,,,,,,32
+1362187,Dave Cortese for Mayor 2014,000,CAO,41768,,,,S497,F497P1,C5553558,COM,Peace Officers Research Association of California,,,,,,Sacramento,CA,95834-3725,,,,,41767,,1100.00,810830,,,,,,,,,,,,,,,,32
+743393,"San Jose Firefighters, IAFF Local 230 Political Action Committee",000,RCP,41768,,,,S497,F497P2,EXP20679,COM,Bob Wieckowski for Senate 2014,,,,,,Fremont,CA,94538,,,,41793,41768,,4100.00,1354452,Bob Wieckowski,,,,SEN,,SEN,,10,S,,,,,,050914
+743393,"San Jose Firefighters, IAFF Local 230 Political Action Committee",000,RCP,41768,,,,S497,F497P2,EXP20686,COM,Evan Low for Assembly 2014,,,,,,Sacramento,CA,95814,,,,41793,41768,,2500.00,1346170,Evan Low,,,,ASM,,ASM,,28,S,,,,,,050914
+743393,"San Jose Firefighters, IAFF Local 230 Political Action Committee",000,RCP,41768,,,,S497,F497P2,EXP20687,COM,Kansen Chu for State Assembly 2014,,,,,,Milpitas,CA,95035,,,,41793,41768,,2500.00,1356097,Kansen Chu,,,,ASM,,ASM,,25,S,,,,,,050914
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41768,,,,S497,F497P1,INC36,IND,GENTZKOW,PAUL,,,,,Saratoga,CA,95070,ROBERT HALF,EXECUTIVE,,,41768,,15000.00,,,,,,,,,,,,,,,,,LCR #242
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41767,,,41640,S497,F497P1,7v3PSJj3xdeD,IND,Zaro,Michael,,,,,San Jose,CA,95125,Self,Property Manager,,,41766,,1000.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41767,,,41640,S497,F497P1,OWvzFJOlPBfa,IND,Liang,Charles,,,,,San Jose,CA,95131,"Super Micro Computer, Inc.",President,,,41767,,1100.00,,,,,,,,,,,,,,,,,31
+1362187,Dave Cortese for Mayor 2014,000,CAO,41767,,,,S497,F497P1,C5551833,OTH,"T.T Group, Inc",,,,,,San Jose,CA,95112,,,,,41766,,1000.00,,,,,,,,,,,,,,,,,31
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41766,,,41640,S497,F497P1,tWLQZR1hidT6,OTH,Dahlin,,,,,,Pleasanton,CA,94588,,,,,41765,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41766,,,41640,S497,F497P1,egIW9MBcJtw6,IND,Padfield,Sara,,,,,san jose,CA,95130,HDS Construction,Finance,,,41765,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41766,,,41640,S497,F497P1,aOoNXhRI7yaA,IND,Liaw,Wally,,,,,Fremont,CA,94539,"Super Micro Computer, Inc.",Sales Associate,,,41766,,1100.00,,,,,,,,,,,,,,,,,30
+1362187,Dave Cortese for Mayor 2014,000,CAO,41766,,,,S497,F497P1,C5550686,IND,Campi,Michael,,,,,San Jose,CA,95125-5508,,,,,41765,,1100.00,,,,,,,,,,,,,,,,,30
+1362187,Dave Cortese for Mayor 2014,000,CAO,41766,,,,S497,F497P1,C5551236,IND,Christopher,Karen,,,,,Gilroy,CA,95020,"Christopher Ranch, LLC",Administrative Assistant,,,41765,,1000.00,,,,,,,,,,,,,,,,,30
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),001,RCP,41766,,,,S497,F497P2,EXP7564,COM,Madison Nguyen for Mayor 2014,,,,,,San Jose,CA,95148,,,,,41746,,1100.00,1359805,Madison Nguyen,,,,MAY,,OTH,City of San Jose,,,,,,,,2
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),001,RCP,41766,,,,S497,F497P2,EXP7566,COM,Neighbors for Sam Liccardo for Mayor 2014,,,,,,San Jose,CA,95117,,,,,41746,,1100.00,1361139,Sam Liccardo,,,,MAY,,OTH,City of San Jose,,,,,,,,2
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),001,RCP,41766,,,,S497,F497P2,EXP7567,COM,Pierluigi Oliverio for Mayor 2014,,,,,,San Jose,CA,95150,,,,,41746,,1100.00,1362117,Pierluigi Oliverio,,,,MAY,,OTH,City of San Jose,,,,,,,,2
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),001,RCP,41766,,,,S497,F497P2,EXP7565,COM,Rose Herrera for Mayor 2014,,,,,,San Jose,CA,95148,,,,,41746,,1100.00,1362068,Rose Herrera,,,,MAY,,OTH,City of San Jose,,,,,,,,2
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),000,RCP,41766,,,,S497,F497P2,EXP7564,COM,Madison Nguyen for Mayor 2014,,,,,,San Jose,CA,95148,,,,,41746,,1100.00,1359805,Madison Nguyen,,,,MAY,,OTH,City of San Jose,,,,,,,,1
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),000,RCP,41766,,,,S497,F497P2,EXP7566,COM,Neighbors for Sam Liccardo for Mayor 2014,,,,,,San Jose,CA,95117,,,,,41746,,1100.00,1361139,Sam Liccardo,,,,MAY,,OTH,City of San Jose,,,,,,,,1
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),000,RCP,41766,,,,S497,F497P2,EXP7567,COM,Pierluigi Oliverio for Mayor 2014,,,,,,San Jose,CA,95150,,,,,41746,,1100.00,1362117,Pierluigi Oliverio,,,,MAY,,OTH,City of San Jose,,,,,,,,1
+820668,San Jose Silicon Valley Chamber of Commerce Political Action Committee (ChamberPAC),000,RCP,41766,,,,S497,F497P2,EXP7565,COM,Rose Herrera for Mayor 2014,,,,,,San Jose,CA,95148,,,,,41746,,1100.00,1362068,Rose Herrera,,,,MAY,,OTH,City of San Jose,,,,,,,,1
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41766,,,,S497,F497P1,INC29,IND,RODRIGUEZ,JASON,,,,,San Jose,CA,95127,HEWLETT PACKARD,VICE PRESIDENT AND CHIEF OF STAFF,,,41766,,2000.00,,,,,,,,,,,,,,,,,LCR #227
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41766,,,,S497,F497P1,C10016870,IND,Nguyen,Tam,,,,,Santa Clara,CA,95050,Google,Business Resources,,,41766,,1100.00,,,,,,,,,,,,,,,,,24
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41766,,,,S497,F497P1,C10016871,IND,Van,Ny Thi Ha,,,,,San Jose,CA,95116,Retired,Retired,,,41766,,1100.00,,,,,,,,,,,,,,,,,24
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41766,,,,S497,F497P1,C10016873,OTH,"Iron Mechanical, Inc.",,,,,,Sacramento,CA,95811,,,,,41766,,1000.00,,,,,,,,,,,,,,,,,24
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41766,41765,41765,41793,S497,F497P1,F497P1-84,OTH,Morley Brothers LLC,,,,,,Los Gatos,CA,95032,,,,,41765,,1000.00,,,,,,,,,,,,,,,,,LCR-20140506
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41765,,,41640,S497,F497P1,raHZyNxSnGse,IND,Jones,Mark,,,,,san jose,CA,95118,Real Estate,Cassidy Turley,,,41764,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41765,,,41640,S497,F497P1,eW2YEh72QXfy,OTH,LaJollaManagement Company,,,,,,LaJolla,CA,92037,,,,,41764,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41765,,,41640,S497,F497P1,HzUhQLVUMQQa,IND,Ferguson,Dan,,,,,Santa Clara,CA,95051,Advantel Networks,Manager,,,41765,,1100.00,,,,,,,,,,,,,,,,,29
+1362187,Dave Cortese for Mayor 2014,000,CAO,41765,,,,S497,F497P1,C5550672,IND,Duong,Wendy,,,,,San Jose,CA,95148,Danny Recycling Inc,President,,,41764,,1000.00,,,,,,,,,,,,,,,,,29
+1362187,Dave Cortese for Mayor 2014,000,CAO,41765,,,,S497,F497P1,C5550669,IND,Shimizu,Bruce,,,,,San Jose,CA,95112,Self Employed,Educator,,,41764,,1100.00,,,,,,,,,,,,,,,,,29
+1362068,Rose Herrera for Mayor 2014,000,,41765,,,41640,S497,F497P1,ba8PBSSlgO5X,IND,Dosanjh,Inder,,,,,Livermore,CA,94550,CA Car Group,Auto Dealer,,,41764,,1100.00,,,,,,,,,,,,,,,,,4
+1362068,Rose Herrera for Mayor 2014,000,,41765,,,41640,S497,F497P1,rTfhHc2pedb6,OTH,Prometheus Real Estate Group,,,,,,San Mateo,CA,94403,,,,,41764,,1000.00,,,,,,,,,,,,,,,,,4
+1359805,Madison Nguyen for Mayor 2014,000,,41764,,,41640,S497,F497P1,fdUm2ZoWBogl,IND,Tersini,Mark E.,,,,,Los Gatos,CA,95032,"KT Properties, Inc.",Senior Vice President,,,41764,,1100.00,,,,,,,,,,,,,,,,,28
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41764,41764,41764,41793,S497,F497P1,F497P1-74,IND,Neale,David,,,,,San Jose,CA,95113,The Core Companies,Real Estate,,,41764,,1000.00,,,,,,,,,,,,,,,,,LCR-20140505
+1362187,Dave Cortese for Mayor 2014,000,CAO,41764,,,,S497,F497P1,C5549661,IND,Luong,DiemMy,,,,,Santa Clara,CA,95051,DMNLuong Investment,Self-Employed,X,,41763,,1100.00,,,,,,,,,,,,,,,,,28
+1362187,Dave Cortese for Mayor 2014,000,CAO,41764,,,,S497,F497P1,C5549660,IND,Ngo,HuaT,,,,,Burlingame,CA,94010,"H&N Foods, International",Business Owner/President,,,41763,,1100.00,,,,,,,,,,,,,,,,,28
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41764,,,,S497,F497P1,INC28,IND,LARSEN,CHRIS,,,,,San Francisco,CA,94105,RIPPLE LABS,CEO,,,41764,,5000.00,,,,,,,,,,,,,,,,,LCR #212
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41764,,,,S497,F497P1,INC27,IND,NEVENS,T. MICHAEL,,,,,Los Altos,CA,94024,RETIRED,RETIRED,,,41764,,5000.00,,,,,,,,,,,,,,,,,LCR #212
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41762,,,41640,S497,F497P1,3JY3TOnoogBr,IND,Neal,Jim,,,,,Campbell,CA,95008,Self,Real Estate,,,41761,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41761,,,41640,S497,F497P1,GjYir77ljthu,IND,Carson,Carlee,,,,,Palmer Lake,CO,80133,Retired,Retired,,,41760,,1000.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41761,,,41640,S497,F497P1,HSKcuCtCkULi,IND,Copeland,Jim,,,,,Carmel Valley,CA,93924,C J Lake LLC,Consultant,,,41761,,500.00,,,,,,,,,,,,,,,,,27
+1359805,Madison Nguyen for Mayor 2014,000,,41761,,,41640,S497,F497P1,k9RVBaIcQ9qx,IND,Hua,Tony,,,,,Hayward,CA,94544,"Hayward Quartz Technology, Inc.",Production Supervisor,,,41761,,1000.00,,,,,,,,,,,,,,,,,26
+1359805,Madison Nguyen for Mayor 2014,000,,41761,,,41640,S497,F497P1,hSVXBfF9L6jU,IND,Nguyen,Charles Trung,,,,,San Jose,CA,95128,Majestic Beauty Supply,General Manager,,,41761,,1100.00,,,,,,,,,,,,,,,,,26
+1362187,Dave Cortese for Mayor 2014,000,CAO,41761,,,,S497,F497P1,C5545257,IND,Berkes,JeffreyS,,,,,Menlo Park,CA,94025,Federal Realty Inv. Trust,Comm'l Re Exec,,,41760,,1100.00,,,,,,,,,,,,,,,,,27
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41761,,,,S497,F497P1,C10012744,IND,Bruening,Mark,,,,,San Jose,CA,95125,R & C Brown Associations,Real Estate Developer,,,41760,,1100.00,,,,,,,,,,,,,,,,,23
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41761,,,,S497,F497P1,C10012748,IND,Brown,Richard,,,,,Los Gatos,CA,95032,R & C Brown Associations,Real Estate,,,41760,,1100.00,,,,,,,,,,,,,,,,,23
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41761,,,,S497,F497P1,INC25,OTH,"SANTA CLARA RESIDENCES, LLC",,,,,,Menlo Park,CA,94025,,,,,41760,,5000.00,,,,,,,,,,,,,,,,,LCR #211
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41761,,,,S497,F497P1,INC24,IND,DANNER,JOHN,,,,,Palo Alto,CA,94301,ZEAL,CEO,,,41761,,10000.00,,,,,,,,,,,,,,,,,LCR #201
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41761,,,,S497,F497P1,INC23,IND,LOWENTHAL,RICHARD,,,,,Cupertino,CA,95014,CHARGE POINT,EXECEUTIVE,,,41761,,1000.00,,,,,,,,,,,,,,,,,LCR #201
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41761,,,,S497,F497P1,INC2,IND,DE GEUS,AART J.,,,,,Los Altos,CA,94024,"SYNOPSYS, INC.",CEO,,,41754,,10000.00,,,,,,,,,,,,,,,,,LCR #179A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41761,,,,S497,F497P1,INC1,IND,KLINE,NORMAN,,,,,San Jose,CA,95126,LIBRARY WORLD INC.,CEO,,,41754,,3000.00,,,,,,,,,,,,,,,,,LCR #179A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41761,,,,S497,F497P1,INC4,IND,MENDONCA,LENNY T.,,,,,Montara,CA,94037,RETIRED,RETIRED,,,41754,,5000.00,,,,,,,,,,,,,,,,,LCR #179A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41761,,,,S497,F497P1,INC5,IND,PAKBAZ,SIYAMAK,,,,,Anna Maria,FL,34216,KIRKLAND & ELLIS,ATTORNEY,,,41754,,10000.00,,,,,,,,,,,,,,,,,LCR #179A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41761,,,,S497,F497P1,INC3,IND,GUARDINO,CARL THOMAS,,,,,Monte Sereno,CA,95030,SILICON VALLEY LEADERSHOP GROUP,CEO,,,41757,,2000.00,,,,,,,,,,,,,,,,,LCR #179A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",001,RCP,41761,,,,S497,F497P1,INC6,IND,WERNER,THOMAS,,,,,Los Altos,CA,94024,SUNPOWER CORPORATION,CEO,,,41757,,25000.00,,,,,,,,,,,,,,,,,LCR #179A
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41761,,,,S497,F497P1,INC18,IND,BERGLUND,STEVEN,,,,,Monte Sereno,CA,95030,TRIMBLE NAVIGATION,CEO,,,41760,,20000.00,,,,,,,,,,,,,,,,,LCR #197
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41761,,,,S497,F497P1,INC20,IND,COTCHETT,JOSEPH,,,,,Burlingame,CA,94010,"COTCHETT, PITRE & MCCARTHY, LLP",ATTORNEY,,,41760,,25000.00,,,,,,,,,,,,,,,,,LCR #197
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41760,,,41640,S497,F497P1,j4HmBKunBDe9,OTH,KTGY Group,,,,,,Irvine,CA,92614,,,,,41759,,1100.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41760,,,41640,S497,F497P1,BHwLcYTHLfPc,OTH,T&L Property Management,,,,,,San Jose,CA,95150,,,,,41759,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41760,,,41640,S497,F497P1,JDujsyoQhZm4,IND,Wong,Allen,,,,,San Jose,CA,95170,"MGD Contractors, Inc.",President,,,41760,,1000.00,,,,,,,,,,,,,,,,,25
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41760,41759,41759,41793,S497,F497P1,F497P1-70,OTH,Friends of the San Jose West Valley Library,,,,,,San Jose,CA,95117,,,,,41759,,2000.00,,,,,,,,,,,,,,,,,LCR-20140430
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41760,41759,41759,41793,S497,F497P1,F497P1-68,IND,Landry,Michele,,,,,Sunnyvale,CA,94088,Spansion,VP Corporate Communications,,,41759,,1000.00,,,,,,,,,,,,,,,,,LCR-20140430
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41760,41759,41759,41793,S497,F497P1,F497P1-69,IND,Lustig,Brooke,,,,,San Jose,CA,95112,San Jose State University,Lecturer  Dept of Chemistry,,,41759,,1000.00,,,,,,,,,,,,,,,,,LCR-20140430
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41760,,,,S497,F497P1,INC16,IND,BECKER,GREG,,,,,Menlo Park,CA,94025,SILICON VALLEY BANK,BANKER,,,41759,,2500.00,,,,,,,,,,,,,,,,,LCR #187
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41760,,,,S497,F497P1,INC15,IND,SULLIVAN,GODFREY,,,,,Saratoga,CA,95070,"SPLUNK, INC.",CEO,,,41759,,5000.00,,,,,,,,,,,,,,,,,LCR #187
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41760,,,,S497,F497P1,INC13,IND,WATKINS,WILLIAM,,,,,Pleasanton,CA,94588,IMERY POWER SYSTEMS,CEO,,,41759,,20000.00,,,,,,,,,,,,,,,,,LCR #187
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41760,,,,S497,F497P1,INC14,IND,WYMER,STEVE,,,,,San Jose,CA,95125,TIVO INC.,"VICE PRESIDENT, CORPORATE AFFAIRS AND COMMUNICATIONS",,,41759,,1000.00,,,,,,,,,,,,,,,,,LCR #187
+1359805,Madison Nguyen for Mayor 2014,000,,41759,,,41640,S497,F497P1,2JfQe9xXb2Th,OTH,"Delta Alarm Security Systems, Inc.",,,,,,San Jose,CA,95138,,,,,41759,,1100.00,,,,,,,,,,,,,,,,,24
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41759,,,41640,S497,F497P1,uuxAsq1l9RMY,OTH,Taylor Morrrison LLC,,,,,,Folsom,CA,95630,,,,,41758,,1100.00,,,,,,,,,,,,,,,,,
+1362187,Dave Cortese for Mayor 2014,000,CAO,41759,,,,S497,F497P1,C5539929,COM,San Mateo County Deputy Sheriffs Association,,,,,,Sacramento,CA,95814,,,,,41758,,1100.00,1312152,,,,,,,,,,,,,,,,26
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41758,,,41640,S497,F497P1,HvPxAEewDVAM,IND,Meeker,LeeAnn,,,,,San Jose,CA,95125,Acretitive,Manager,,,41757,,1000.00,,,,,,,,,,,,,,,,,
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41758,,,,S497,F497P1,INC2,IND,DE GEUS,AART J.,,,,,Los Altos,CA,94024,"SYNOPSYS, INC.",CEO,,,41757,,10000.00,,,,,,,,,,,,,,,,,LCR #179
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41758,,,,S497,F497P1,INC3,IND,GUARDINO,CARL THOMAS,,,,,Monte Sereno,CA,95030,SILICON VALLEY LEADERSHOP GROUP,CEO,,,41757,,2000.00,,,,,,,,,,,,,,,,,LCR #179
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41758,,,,S497,F497P1,INC1,IND,KLINE,NORMAN,,,,,San Jose,CA,95126,LIBRARY WORLD INC.,CEO,,,41757,,3000.00,,,,,,,,,,,,,,,,,LCR #179
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41758,,,,S497,F497P1,INC4,IND,MENDONCA,LENNY T.,,,,,Montara,CA,94037,RETIRED,RETIRED,,,41757,,5000.00,,,,,,,,,,,,,,,,,LCR #179
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41758,,,,S497,F497P1,INC5,IND,PAKBAZ,SIYAMAK,,,,,Anna Maria,FL,34216,KIRKLAND & ELLIS,ATTORNEY,,,41757,,10000.00,,,,,,,,,,,,,,,,,LCR #179
+1366242,"CITIZENS FOR A SAFE & STRONG SAN JOSE, SUPPORTING LICCARDO FOR MAYOR 2014",000,RCP,41758,,,,S497,F497P1,INC6,IND,WERNER,THOMAS,,,,,Los Altos,CA,94024,SUNPOWER CORPORATION,CEO,,,41757,,25000.00,,,,,,,,,,,,,,,,,LCR #179
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41758,,,,S497,F497P1,C10006115,IND,Tracy,MarkHansen,,,,,Santa Clara,CA,95051,Mark Tracy Services,General Contractor,,,41757,,1000.00,,,,,,,,,,,,,,,,,22
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41758,,,,S497,F497P1,C10006117,IND,Brown,Richard,,,,,San Jose,CA,95136,Self-Employed,Landscaping,,,41757,,1000.00,,,,,,,,,,,,,,,,,22
+1362187,Dave Cortese for Mayor 2014,000,CAO,41757,,,,S497,F497P1,C5534958,IND,Provenzano,James,,,,,San Jose,CA,95136,Self-employed,Farmer,,,41756,,1100.00,,,,,,,,,,,,,,,,,25
+1361139,Neighbors for Sam Liccardo for Mayor 2014,1,CAO,41757,,,,S497,F497P1,C10006123,COM,California League of Conservation Voters SCC Chapter,,,,,,San Jose,CA,95109-2079,,,,,41754,,1100.00,951348,,,,,,,,,,,,,,,,21
+1361139,Neighbors for Sam Liccardo for Mayor 2014,1,CAO,41757,,,,S497,F497P1,C10006133,IND,Burke,Brian,,,,,San Jose,CA,95124,eBay,Director,,,41756,,1100.00,,,,,,,,,,,,,,,,,21
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41757,,,,S497,F497P1,C10005593,IND,Burke,Brian,,,,,San Jose,CA,95124,eBay,Director,,,41756,,1100.00,,,,,,,,,,,,,,,,,21
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41757,,,41640,S497,F497P1,5glU82kEeuWZ,OTH,Paradise Commercial,,,,,,San Jose,CA,95150,,,,,41755,,1100.00,,,,,,,,,,,,,,,,,
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41757,41754,41754,41793,S497,F497P1,F497P1-56,OTH,Jude Barry Catapult Strategies,,,,,,Campbell,CA,95008,,,,,41754,,1000.00,,,,,,,,,,,,,,,,,LCR-20140425
+1362187,Dave Cortese for Mayor 2014,000,CAO,41756,,,,S497,F497P1,C5534071,OTH,Prometheus Real Estate Group,,,,,,San Mateo,CA,94403-1161,,,,,41755,,1000.00,,,,,,,,,,,,,,,,,24
+1359805,Madison Nguyen for Mayor 2014,000,,41756,,,41640,S497,F497P1,oZzntljCnkAc,OTH,"Prometheus Real Estate Group, Inc.",,,,,,San Mateo,CA,94403,,,,,41756,,1000.00,,,,,,,,,,,,,,,,,23
+1362187,Dave Cortese for Mayor 2014,000,CAO,41754,,,,S497,F497P1,C5531427,COM,Building Industry Association of the Bay Area PAC,,,,,,Walnut Creek,CA,94596,,,,,41753,,1100.00,761102,,,,,,,,,,,,,,,,23
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41754,,,41640,S497,F497P1,uhLpGuilhXMg,OTH,Prometheus Real Estate Group,,,,,,San Mateo,CA,94403,,,,,41753,,1000.00,,,,,,,,,,,,,,,,,
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41753,,,41640,S497,F497P1,HdeK7nTi5DaO,COM,Building Industry Association of the Bay Area PAC,,,,,,Walnut Creek,CA,94596,,,,,41752,,1100.00,761102,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41753,,,41640,S497,F497P1,7DZfDejOdhkI,OTH,Building Industry Association Of The Bay Area PAC ID# 761102,,,,,,Walnut Creek,CA,94596,,,,,41753,,1100.00,,,,,,,,,,,,,,,,,22
+1359805,Madison Nguyen for Mayor 2014,000,,41753,,,41640,S497,F497P1,pkPUodxcMUrp,OTH,Lucky 7 Supermarket,,,,,,San Jose,CA,95122,,,,,41753,,1000.00,,,,,,,,,,,,,,,,,22
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41753,,,,S497,F497P1,C10002371,COM,Building Industry Assocation of the Bay Area,,,,,,Walnut Creek,CA,94596,,,,,41752,,1100.00,761102,,,,,,,,,,,,,,,,20
+1361139,Neighbors for Sam Liccardo for Mayor 2014,1,CAO,41753,,,,S497,F497P1,C9993598,OTH,Galilei Properties Inc.,,,,,,San Jose,CA,95118-1164,,,,,41746,,1000.00,,,,,,,,,,,,,,,,,18
+1362187,Dave Cortese for Mayor 2014,000,CAO,41752,,,,S497,F497P1,C5528003,IND,Cao,Thomas-DungS,Dr.,,,,San Jose,CA,95121,Thomas Cao DDS Inc,Dentist,,,41751,,1100.00,,,,,,,,,,,,,,,,,22
+1362187,Dave Cortese for Mayor 2014,000,CAO,41752,,,,S497,F497P1,C5526613,IND,Ding,Christopher,,,,,San Jose,CA,95132,US Beacon Artist Association,Musician / Board Memeber,,,41751,,1000.00,,,,,,,,,,,,,,,,,22
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41752,,,41640,S497,F497P1,MlwmkXt9CE4s,IND,Marino,Fabio,,,,,san jose,CA,95125,MWE Law Firm,Attorney,,,41751,,1100.00,,,,,,,,,,,,,,,,,
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41752,41751,41751,41793,S497,F497P1,F497P1-53,OTH,Garden City Sanitation Inc,,,,,,Santa Clara,CA,95050,,,,,41751,,2500.00,,,,,,,,,,,,,,,,,LATE-20140422
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41752,41751,41751,41793,S497,F497P1,F497P1-54,OTH,Joseph George,,,,,,San Jose,CA,95125,,,,,41751,,1500.00,,,,,,,,,,,,,,,,,LATE-20140422
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41752,41751,41751,41793,S497,F497P1,F497P1-51,OTH,Silicon Valley Leadership Group,,,,,,San Jose,CA,95110,,,,,41751,,1285.00,,,,,,,,,,,,,,,,,LATE-20140422
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41752,41751,41751,41793,S497,F497P1,F497P1-52,IND,Tersini,Mark,,,,,Los Gatos,CA,95032,KT Properties,Senior Vice President,,,41751,,10000.00,,,,,,,,,,,,,,,,,LATE-20140422
+1362187,Dave Cortese for Mayor 2014,000,CAO,41752,,,,S497,F497P1,C5528003,IND,Cao,Thomas-DungS,Dr.,,,,San Jose,CA,95121,Thomas Cao DDS Inc,Dentist,,,41751,,1100.00,,,,,,,,,,,,,,,,,22
+1362187,Dave Cortese for Mayor 2014,000,CAO,41752,,,,S497,F497P1,C5526613,IND,Ding,Christopher,,,,,San Jose,CA,95132,US Beacon Artist Association,Musician / Board Memeber,,,41751,,1000.00,,,,,,,,,,,,,,,,,22
+1359805,Madison Nguyen for Mayor 2014,000,,41751,,,41640,S497,F497P1,9TeEKfoCRGTg,IND,Dinapoli,J. Philip,,,,,San Jose,CA,95113,"JP Dinapoli Companies, Inc.",President,,,41751,,1000.00,,,,,,,,,,,,,,,,,21
+1359805,Madison Nguyen for Mayor 2014,000,,41751,,,41640,S497,F497P1,joebmFii2jJc,IND,Dinapoli,John B.,,,,,San Jose,CA,95113,"JP Dinapoli Companies, Inc.",Vice President,,,41751,,1000.00,,,,,,,,,,,,,,,,,21
+1362068,Rose Herrera for Mayor 2014,000,,41751,,,41640,S497,F497P1,Z9V8jdNIx5uG,OTH,Building Industry Association of the Bay Area PAC,,,,,,Walnut Creek,CA,94596,,,,,41750,,1100.00,,,,,,,,,,,,,,,,,3
+1362068,Rose Herrera for Mayor 2014,000,,41751,,,41640,S497,F497P1,7fC4ZKlMsznr,OTH,San Jose Silicon Valley Chamber of Commerce PAC,,,,,,Encinitas,CA,92024,,,,,41750,,1100.00,,,,,,,,,,,,,,,,,3
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41751,41751,41751,41793,S497,F497P1,F497P1-51,OTH,Silicon Valley Leadership Group,,,,,,San Jose,CA,95110,,,,,41751,,1285.00,,,,,,,,,,,,,,,,,LCR-20140422
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41751,,,41640,S497,F497P1,PjhbK6IBXnej,COM,Chamber PAC,,,,,,Encinitas,CA,92024,,,,,41750,,1100.00,820668,,,,,,,,,,,,,,,,497
+1359805,Madison Nguyen for Mayor 2014,000,,41750,,,41640,S497,F497P1,7NAeh9sARwWI,OTH,San Jose Silicon Valley Chamber Of Commerce PAC  ID# 820668,,,,,,Encinitas,CA,92024,,,,,41750,,1100.00,,,,,,,,,,,,,,,,,20
+1359805,Madison Nguyen for Mayor 2014,000,,41750,,,41640,S497,F497P1,H8njj3LtiSaX,IND,Truong,Eddie,,,,,San Jose,CA,95136,Madison Nguyen For Mayor 2014,Campaign Manager,,,41750,,400.00,,,,,,,,,,,,,,,,,20
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41750,,,,S497,F497P1,C9997894,OTH,Prometheus Real Estate Group,,,,,,San Mateo,CA,94403,,,,,41749,,1000.00,,,,,,,,,,,,,,,,,19
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41750,,,,S497,F497P1,C9997895,OTH,True Life Communities,,,,,,San Ramon,CA,94583,,,,,41749,,1000.00,,,,,,,,,,,,,,,,,19
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41750,,,,S497,F497P1,C9997909,OTH,Rebello's Towing Services,,,,,,San Jose,CA,95112,,,,,41749,,1100.00,,,,,,,,,,,,,,,,,19
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41750,,,,S497,F497P1,C9997899,COM,San Jose Silicon Valley Chamber of Commerce PAC,,,,,,Encinitas,CA,92024,,,,,41749,,1100.00,820668,,,,,,,,,,,,,,,,19
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41750,,,41640,S497,F497P1,ubl1mU8Mt8Dj,IND,Marino,Robin,,,,,San Jose,CA,95125,homemaker,homemaker,,,41748,,1100.00,,,,,,,,,,,,,,,,,
+1362068,Rose Herrera for Mayor 2014,000,,41750,,,41640,S497,F497P1,4A2NlOjR5FVH,IND,Tersini,Ken,,,,,Cupertino,CA,95014,KT Properties,President,,,41749,,1100.00,,,,,,,,,,,,,,,,,2
+1362068,Rose Herrera for Mayor 2014,000,,41750,,,41640,S497,F497P1,OpNbzsup7lFr,IND,Tersini,Mark,,,,,Los Gatos,CA,95032,KT Properties,Senior V.P.,,,41749,,1100.00,,,,,,,,,,,,,,,,,2
+1362068,Rose Herrera for Mayor 2014,000,,41750,,,41640,S497,F497P1,fhSvab1qgF2Z,OTH,Trumark Homes LLC,,,,,,Danville,CA,94506,,,,,41749,,1100.00,,,,,,,,,,,,,,,,,2
+1362187,Dave Cortese for Mayor 2014,000,CAO,41748,,,,S497,F497P1,C5523635,IND,Spieker,Tod,,,,,Atherton,CA,94027,"Spicker co., Inc",Real Estate,,,41747,,1100.00,,,,,,,,,,,,,,,,,22
+1359805,Madison Nguyen for Mayor 2014,000,,41748,,,41640,S497,F497P1,e5ckAWV35qXV,OTH,"35500 Dumbarton, LLC",,,,,,San Jose,CA,95132,,,,,41748,,1000.00,,,,,,,,,,,,,,,,,19
+1359805,Madison Nguyen for Mayor 2014,000,,41748,,,41640,S497,F497P1,d5uETlnsQVqP,IND,Le,Tuyet Minh,,,,,San Jose,CA,95132,Fresh& Natural Food Service Group,Broker,,,41748,,1000.00,,,,,,,,,,,,,,,,,19
+1359805,Madison Nguyen for Mayor 2014,000,,41748,,,41640,S497,F497P1,UkZEbneBwZpG,OTH,"Rebello's Towing Services, Inc.",,,,,,San Jose,CA,95112,,,,,41748,,1100.00,,,,,,,,,,,,,,,,,19
+1359805,Madison Nguyen for Mayor 2014,000,,41747,,,41640,S497,F497P1,Y5Y384JlQHiU,OTH,"Henley Restaurants, Inc.",,,,,,San Jose,CA,95119,,,,,41747,,1100.00,,,,,,,,,,,,,,,,,18
+1359805,Madison Nguyen for Mayor 2014,000,,41747,,,41640,S497,F497P1,yWqhFV6uz1Nh,OTH,HungPhatUSA Corporation,,,,,,Newark,DE,19711,,,,,41747,,1000.00,,,,,,,,,,,,,,,,,18
+1359805,Madison Nguyen for Mayor 2014,000,,41747,,,41640,S497,F497P1,CH5gLo8l7XP3,IND,Lu,Lucy X,,,,,Milpitas,CA,95035,GD Commercial Real Estate,Realtor,,,41747,,1000.00,,,,,,,,,,,,,,,,,18
+1359805,Madison Nguyen for Mayor 2014,000,,41747,,,41640,S497,F497P1,aCBJLOjotgdT,IND,Pham,Steve L,,,,,San Jose,CA,95148,GD Commercial Real Estate,Property Manager,,,41747,,1000.00,,,,,,,,,,,,,,,,,18
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41747,,,41640,S497,F497P1,qfBe741g7RVC,IND,Hoefler,Brett,,,,,San Jose,CA,95126,Self,Mortgage Broker,,,41746,,1100.00,,,,,,,,,,,,,,,,,497
+1362187,Dave Cortese for Mayor 2014,000,CAO,41747,,,,S497,F497P1,C5520009,IND,Cortese,Robert,,,,,San Jose,CA,95118-2457,Boardvantage,Professional Services Consultant,,,41746,,1100.00,,,,,,,,,,,,,,,,,21
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41747,41746,41746,41793,S497,F497P1,F497P1-24,OTH,Republic Services Inc.,,,,,,Phoenix,AZ,85054,,,,,41746,,20000.00,,,,,,,,,,,,,,,,,LCR-20140417
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41747,,,,S497,F497P1,C9993598,IND,Passaro,Lino,,,,,San Jose,CA,95118,Galilei Properties,Owner,,,41746,,1000.00,,,,,,,,,,,,,,,,,18
+1362187,Dave Cortese for Mayor 2014,01,CAO,41746,,,,S497,F497P1,C5517320,COM,Plumbers & Steamfitters Local 467 PAC Fund,,,,,,Burlingame,CA,94010,,,,,41744,,1100.00,782481,,,,,,,,,,,,,,,,21
+1362187,Dave Cortese for Mayor 2014,01,CAO,41746,,,,S497,F497P1,C5517319,COM,Sprinkler Fitters Local 692 PAC Fund,,,,,,Philadelphia,PA,19154,,,,,41744,,1100.00,,,,,,,,,,,,,,,,,21
+1362187,Dave Cortese for Mayor 2014,01,CAO,41746,,,,S497,F497P1,C5517318,COM,UA Local 342 PAC Fund,,,,,,Concord,CA,94518,,,,,41744,,1100.00,890268,,,,,,,,,,,,,,,,21
+1362187,Dave Cortese for Mayor 2014,01,CAO,41746,,,,S497,F497P1,C5517323,COM,UA Local 38 COPE PAC,,,,,,San Francisco,CA,94103,,,,,41744,,1100.00,746875,,,,,,,,,,,,,,,,21
+1362187,Dave Cortese for Mayor 2014,000,CAO,41746,,,,S497,F497P1,C5520085,COM,Oakland Police Officers Association,,,,,,Oakland,CA,94607,,,,,41745,,1100.00,943526,,,,,,,,,,,,,,,,21
+1362187,Dave Cortese for Mayor 2014,000,CAO,41746,,,,S497,F497P1,C5519966,IND,Withington,WilliamR,,,,,Danville,CA,94506,Enterprise,V.P,,,41745,,1100.00,,,,,,,,,,,,,,,,,21
+1362187,Dave Cortese for Mayor 2014,000,CAO,41745,,,,S497,F497P1,C5517319,COM,Sprinkler Fitters Local 692 PAC Fund,,,,,,Philadelphia,PA,19154,,,,,41744,,1100.00,,,,,,,,,,,,,,,,,20
+1362187,Dave Cortese for Mayor 2014,000,CAO,41745,,,,S497,F497P1,C5517318,COM,UA Local 342 PAC Fund,,,,,,Concord,CA,94518,,,,,41744,,1100.00,890268,,,,,,,,,,,,,,,,20
+1362187,Dave Cortese for Mayor 2014,000,CAO,41745,,,,S497,F497P1,C5517323,COM,UA Local 38 COPE PAC,,,,,,San Francisco,CA,94103,,,,,41744,,1100.00,746875,,,,,,,,,,,,,,,,20
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41745,,,,S497,F497P1,C9990714,COM,Western Manufactured Housing Communities Assn. PAC,,,,,,Sacramento,CA,95814,,,,,41744,,1100.00,742422,,,,,,,,,,,,,,,,17
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41745,41745,41745,41793,S497,F497P1,F497P1-23,OTH,Friends of Dr. Martin Luther King Jr. Library,,,,,,San Jose,CA,95113,,,,,41745,,4000.00,,,,,,,,,,,,,,,,,LCR-20140416
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41744,,,41640,S497,F497P1,WFqZWl9I2k7l,IND,Sardariani,Edmond,,,,,San Jose,CA,95120,Director,Medicines Comp,,,41743,,1100.00,,,,,,,,,,,,,,,,,497
+1362187,Dave Cortese for Mayor 2014,000,CAO,41744,,,,S497,F497P1,C5512580,COM,Drive Committee PAC,,,,,,Washington,DC,20001-2130,,,,,41744,,1100.00,C00032979,,,,,,,,,,,,,,,,19
+1362187,Dave Cortese for Mayor 2014,000,CAO,41744,,,,S497,F497P1,C5512124,COM,East Side Teachers PAC,,,,,,San Jose,CA,95127-3913,,,,,41743,,1100.00,1249672,,,,,,,,,,,,,,,,19
+1362187,Dave Cortese for Mayor 2014,000,CAO,41744,,,,S497,F497P1,C5512127,COM,Long Beach Police Officers Association,,,,,,Sacramento,CA,95814,,,,,41743,,1100.00,761004,,,,,,,,,,,,,,,,19
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41744,,,,S497,F497P1,C9990147,IND,Mishra,Vish,,,,,San Jose,CA,95136,Clearstone Venture Partners,Venture Director,,,41743,,1100.00,,,,,,,,,,,,,,,,,16
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41744,,,,S497,F497P1,C9990148,IND,Reddy,Kalakoti,,,,,San Jose,CA,95138,"Global Industry Analysts, Inc",CEO,,,41743,,1100.00,,,,,,,,,,,,,,,,,16
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41744,41743,41743,41793,S497,F497P1,F497P1-21,OTH,Barry Senson Builder Green Valley Corporation,,,,,,San Jose,CA,95112,,,,,41743,,10000.00,,,,,,,,,,,,,,,,,LCR-20140414
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41744,41743,41743,41793,S497,F497P1,F497P1-22,IND,Milligan,Joyce,,,,,San Jose,CA,95127,N/A,Retired,,,41743,,1000.00,,,,,,,,,,,,,,,,,LCR-20140414
+1359805,Madison Nguyen for Mayor 2014,000,,41743,,,41640,S497,F497P1,qygAO6rf38nl,OTH,"De La Rosa Latin American Imports, Inc.",,,,,,Los Gatos,CA,95030,,,,,41743,,1100.00,,,,,,,,,,,,,,,,,17
+1359805,Madison Nguyen for Mayor 2014,000,,41743,,,41640,S497,F497P1,JtBEkr6glTFt,IND,Gray,Sarah L,,,,,San Jose,CA,95124,,Homemaker,,,41743,,1100.00,,,,,,,,,,,,,,,,,17
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41742,,,41640,S497,F497P1,DRaytkoAmIae,IND,Cucuzza,Frank,,,,,San Jose,CA,95125,Self,Real Estate,,,41741,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41741,,,41640,S497,F497P1,wQc8DxarRYAW,OTH,"Thu Duc Garden Homes, LLC",,,,,,San Jose,CA,95132,,,,,41740,,1100.00,,,,,,,,,,,,,,,,,16
+1359805,Madison Nguyen for Mayor 2014,000,,41741,,,41640,S497,F497P1,eTgZj6D79WsE,IND,Vo,Huey T,,,,,San Jose,CA,95164,"Cisco, Inc.",Manager,,,41740,,1080.00,,,,,,,,,,,,,,,,,16
+1362187,Dave Cortese for Mayor 2014,000,CAO,41741,,,,S497,F497P1,C5510569,OTH,WestCoast Precision,,,,,,San Jose,CA,95131,,,,,41740,,1100.00,,,,,,,,,,,,,,,,,18
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41741,,,41640,S497,F497P1,S5keEPkb6PYh,IND,Sardariani,Anoosh,,,,,San Jose,CA,95120,Century 21,Realtor,,,41740,,1100.00,,,,,,,,,,,,,,,,,497
+1362187,Dave Cortese for Mayor 2014,000,CAO,41740,,,,S497,F497P1,C5509802,COM,California Association of Highway Patrolmen,,,,,,Sacramento,CA,95814,,,,,41739,,1100.00,1362187,,,,,,,,,,,,,,,,17
+1362187,Dave Cortese for Mayor 2014,000,CAO,41740,,,,S497,F497P1,C5509799,COM,El Segundo Police Officers Association,,,,,,El Segundo,CA,90245,,,,,41739,,1100.00,960463,,,,,,,,,,,,,,,,17
+1362187,Dave Cortese for Mayor 2014,000,CAO,41740,,,,S497,F497P1,C5509797,COM,Operating Engineers Local Union No. 3,,,,,,Alameda,CA,94502,,,,,41739,,1100.00,891403,,,,,,,,,,,,,,,,17
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41740,,,41640,S497,F497P1,uTXhUnOSsKtl,IND,Reinhard,Ian,,,,,San Francisco,CA,94109,Reinhard Group,filmmaker,,,41739,,1100.00,,,,,,,,,,,,,,,,,497
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41739,,,41640,S497,F497P1,1LEtIxmWFFfL,IND,Speno,Ernie,,,,,Santa Clara,CA,95051,Mission Valley Trucks,Owner,,,41738,,1100.00,,,,,,,,,,,,,,,,,497
+1365447,Protect Our Children - No on San Jose Measure B,000,,41739,,,,S497,F497P1,fsJFJVQukfMG,IND,Yoder,Gregory,,,,,San Jose,CA,95125,CBIZ Insurance,Insurance,,,41738,,1000.00,,,,,,,,,,,,,,,,,3
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41738,,,41640,S497,F497P1,1PnW1dmQoaWO,OTH,190 West St James LLC,,,,,,Cupertino,CA,95014,,,,,41737,,1100.00,,,,,,,,,,,,,,,,,
+1359805,Madison Nguyen for Mayor 2014,000,,41738,,,41640,S497,F497P1,3htabgmhjgPt,IND,Ghafouri,Mojgan,,,,,San Jose,CA,95121,Coldwell Banker San Jose,Loan Officer,,,41738,,1100.00,,,,,,,,,,,,,,,,,15
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41738,,,,S497,F497P1,C9985703,IND,Wenner,Wally,,,,,San Jose,CA,95110,Retired,Retired,,,41737,,1000.00,,,,,,,,,,,,,,,,,15
+1362187,Dave Cortese for Mayor 2014,000,CAO,41738,,,,S497,F497P1,C5503656,COM,"Ontario Police Officers Association, Inc",,,,,,Ontario,CA,91761,,,,,41737,,1100.00,,,,,,,,,,,,,,,,,16
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41737,,,41640,S497,F497P1,fWTumBGCt9bC,IND,Yeo,Kelly,,,,,Hillsborough,CA,94010,Homemaker,Homemaker,,,41736,,1100.00,,,,,,,,,,,,,,,,,497
+1359805,Madison Nguyen for Mayor 2014,000,,41737,,,41640,S497,F497P1,c2tw5mu3SuwX,OTH,Nha Trang Restaurant,,,,,,San Jose,CA,95122,,,,,41737,,1100.00,,,,,,,,,,,,,,,,,14
+1359805,Madison Nguyen for Mayor 2014,000,,41737,,,41640,S497,F497P1,egHebamOdam9,IND,Ward,Bertha R.,,,,,San Jose,CA,95122,,Retired,,,41737,,1100.00,,,,,,,,,,,,,,,,,14
+1362187,Dave Cortese for Mayor 2014,000,CAO,41737,,,,S497,F497P1,C5500922,IND,Cracolice,RobertF,,,,,Fremont,CA,94539,Wells Fargo,Insurance Broker,,,41736,,1100.00,,,,,,,,,,,,,,,,,15
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,lyWFoKNLciUo,OTH,Atlantic Pacific Realty,,,,,,Morgan Hill,CA,95037,,,,,41704,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,dILhR63TqzfM,OTH,Beshoff Motor Cars,,,,,,San Jose,CA,95148,,,,,41704,,1100.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,jj7bPzIRRwCa,OTH,"Zanker Road Resource Management, Ltd.",,,,,,San Jose,CA,95112,,,,,41705,,1100.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,EFIyR8sFJ2uk,IND,Gill,Harjit,,,,,Santa Clara,CA,95051,Skycab Taxi,Taxi Driver,,,41709,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,jKVeEMfH7h7h,IND,Kaur,Inderjit,,,,,Santa Clara,CA,95054,DiDi's Restaurant,Cashier,,,41709,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,5oxMDzHHNTXH,OTH,Kaur Yellow Cab Mountain View,,,,,,Santa Clara,CA,95054,,,,,41709,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,j9ghS6C99uGe,IND,Singh,Amandeep,,,,,Sunnyvale,CA,94086,Latham 7-11,Cashier,,,41709,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,6QPQUU7MXIAI,IND,Singh,Jasvir,,,,,San Jose,CA,95122,Gala Market,Liquor Manager,,,41709,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,ydaQD532P2Ps,IND,Singh,Karnail,,,,,Santa Clara,CA,95054,DiDi's Restaurant,Waiter,,,41709,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,IadGA1xgWxjU,OTH,"Coast Forwarding, LLC",,,,,,Orange,CA,92868,,,,,41710,,1100.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,m14nZvtXqlkz,OTH,"Newport CH International, LLC",,,,,,Orange,CA,92868,,,,,41710,,1100.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,v9sgiuzL5Pmj,IND,Yang,Jim,,,,,Irvine,CA,92603,"Newport CH International, LLC",President,,,41710,,1100.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,3IoF5wBPONEE,OTH,Barry Swenson Builder,,,,,,San Jose,CA,95112,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,HnsMd7e4jbta,OTH,Bluefin Realty Inc.,,,,,,Los Gatos,CA,95030,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,oJS1ISXbgFwl,OTH,DS Murphy Electric,,,,,,Sacramento,CA,95818,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,g2w6F6GbST48,IND,Duhra,Sukhwinder,,,,,San Jose,CA,95116,A Orange Cab Inc.,Driver,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,JNwryZY4cbhq,OTH,"Edgington Plumbing, Inc.",,,,,,Pleasanton,CA,94566,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,TChZbTTb9JDc,IND,Singh,Jorawar,,,,,Santa Clara,CA,95050,A Orange Cab Inc.,Owner,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,d4VF65jckvfK,OTH,The Schoennauer Company,,,,,,San Jose,CA,95110,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1362068,Rose Herrera for Mayor 2014,000,,41736,,,41640,S497,F497P1,S2egpr8iNUzn,OTH,Tucker Engineering,,,,,,Campbell,CA,95008,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,1
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41729,,,,S497,F497P1,C9983416,IND,Miller,D. John,,,,,San Jose,CA,95113,DJM Capital,CEO,,,41736,,1100.00,,,,,,,,,,,,,,,,,14
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41729,,,,S497,F497P1,C9983336,OTH,"SWHM Big, LLC",,,,,,San Jose,CA,95112,,,,,41736,,1000.00,,,,,,,,,,,,,,,,,14
+1359805,Madison Nguyen for Mayor 2014,000,,41735,,,41640,S497,F497P1,vLRsYLK3ucrr,OTH,"Tera Capital Group, Inc.",,,,,,San Jose,CA,95131,,,,,41735,,1100.00,,,,,,,,,,,,,,,,,13
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41735,,,41640,S497,F497P1,bdX97N2i7Kwb,IND,Kirk,Jennifer,,,,,San Jose,CA,95125,Redwitz,CPA,,,41734,,1100.00,,,,,,,,,,,,,,,,,
+1362187,Dave Cortese for Mayor 2014,000,CAO,41735,,,,S497,F497P1,C5497348,COM,IUPAT-Political Action Together- PAC,,,,,,Hanover,MD,21076-1307,,,,,41734,,1000.00,1242103,,,,,,,,,,,,,,,,14
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41733,,,41640,S497,F497P1,vNPVWI3bbsfk,IND,Pasquesi,John,,,,,Woodside,CA,94062,Otter Capital,Director,,,41732,,1100.00,,,,,,,,,,,,,,,,,497
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41733,,,41640,S497,F497P1,FvlSdksFvF99,IND,Pasquesi,Meredith,,,,,Woodside,CA,94062,homemaker,homemaker,,,41732,,1100.00,,,,,,,,,,,,,,,,,497
+1365447,Protect Our Children - No on San Jose Measure B,000,,41733,,,,S497,F497P1,qOu9H7KYfJM4,IND,Berney,Diane,,,,,Morgan Hill,CA,95037,None,Homemaker,,,41733,,9000.00,,,,,,,,,,,,,,,,,2
+1362187,Dave Cortese for Mayor 2014,000,CAO,41733,,,,S497,F497P1,C5494509,COM,San Francisco Police Officers Association PAC,,,,,,Sacramento,CA,95814,,,,,41732,,1100.00,1315969,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41732,,,,S497,F497P1,C5493510,OTH,Sacramento Police Officers Association,,,,,,Sacramento,CA,95814,,,,,41731,,1100.00,,,,,,,,,,,,,,,,,13
+1359805,Madison Nguyen for Mayor 2014,000,,41732,,,41640,S497,F497P1,FE939GHTfpfG,OTH,T& T Auto Body,,,,,,San Jose,CA,95112,,,,,41732,,1000.00,,,,,,,,,,,,,,,,,12
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41732,,,41640,S497,F497P1,vgW1wvfzfFUk,IND,Robson,Mark,,,,,Monte Sereno,CA,95030,Robson Homes,Real Estate,,,41731,,1100.00,,,,,,,,,,,,,,,,,497
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41731,,,41640,S497,F497P1,ld8CbL9pege8,OTH,Westmain Properties,,,,,,Los Gatos,CA,95030,,,,,41730,,1000.00,,,,,,,,,,,,,,,,,497
+1359805,Madison Nguyen for Mayor 2014,000,,41731,,,41640,S497,F497P1,z7tq4YD4eOjV,IND,Berman,Richard,,,,,Alameda,CA,94502,The Berman Company,Sales/Marketing Consumer Products,,,41731,,500.00,,,,,,,,,,,,,,,,,11
+1362030,Yes on Measure B  Save San Jose Libraries 2014  with major support by the San Jose Public Library Foundation,000,BMC,41731,41730,41730,41793,S497,F497P1,F497P1-13,IND,Figone,Allen,,,,,San Jose,CA,95126,N/A,Retired,,,41730,,1000.00,,,,,,,,,,,,,,,,,LCR-20140401
+1362187,Dave Cortese for Mayor 2014,000,CAO,41730,,,,S497,F497P1,C5479475,COM,Bay Area Municipal Election Committee,,,,,,Campbell,CA,95008-0550,,,,,41729,,1100.00,841499,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41730,,,,S497,F497P1,C5478297,IND,Flores,Connie,,,,,Pasadena,CA,91101-2917,Homemaker,Self-Employed,X,,41729,,1100.00,,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41730,,,,S497,F497P1,C5479458,IND,Mozart,John,,,,,Palo Alto,CA,94303-4230,Mozart Development Co,Invester,,,41729,,1000.00,,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41730,,,,S497,F497P1,C5479483,IND,Osteen,StevenR,,,,,Morgan Hill,CA,95037,Retired,Fire Fighter,,,41729,,900.00,,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41730,,,,S497,F497P1,C5479485,IND,Osteen,StevenR,,,,,Morgan Hill,CA,95037,Retired,Fire Fighter,,,41729,,100.00,,,,,,,,,,,,,,,,,13
+1359805,Madison Nguyen for Mayor 2014,000,,41730,,,41640,S497,F497P1,CZMcRzecGezC,OTH,"CSLXPRESS, Inc.",,,,,,Santa Clara,CA,95054,,,,,41729,,1100.00,,,,,,,,,,,,,,,,,10
+1359805,Madison Nguyen for Mayor 2014,000,,41730,,,41640,S497,F497P1,95mlYwq8jtK4,OTH,"Richie Construction, Inc.",,,,,,San Jose,CA,95110,,,,,41729,,1100.00,,,,,,,,,,,,,,,,,10
+1359805,Madison Nguyen for Mayor 2014,000,,41730,,,41640,S497,F497P1,dPeCDU2njVDg,OTH,"Vien Thao Media, Inc.",,,,,,San Jose,CA,95112,,,,,41729,,1100.00,,,,,,,,,,,,,,,,,10
+1359805,Madison Nguyen for Mayor 2014,000,,41730,,,41640,S497,F497P1,nrLTAZGsigBE,IND,Walia,Vinni,,,,,San Jose,CA,95110,Team San Jose,Associate Director of Facilities Services,,,41729,,600.00,,,,,,,,,,,,,,,,,10
+1359805,Madison Nguyen for Mayor 2014,000,,41730,,,41640,S497,F497P1,92zFBVbabu6I,OTH,"Bich Lien Skincare, Inc.",,,,,,San Jose,CA,95122,,,,,41730,,1100.00,,,,,,,,,,,,,,,,,10
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41729,,,,S497,F497P1,C9967924,OTH,"Taylor Morrison of California, LLC",,,,,,Newman,CA,95360,,,,,41726,,1100.00,,,,,,,,,,,,,,,,,13
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475432,IND,Dhillon,Bhupindar,,,,,San Jose,CA,95132,Dhillon Properties,Buisness Owner,,,41726,,500.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475433,IND,Dhillon,Bhupindar,,,,,San Jose,CA,95132,Dhillon Properties,Buisness Owner,,,41726,,600.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475427,OTH,New India Bazar,,,,,,Milpitas,CA,95035,,,,,41726,,1100.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475354,IND,Robson,Mark,,,,,San Jose,CA,95126-1109,Robson Homes,Owner,,,41726,,1100.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475432,IND,Dhillon,Bhupindar,,,,,San Jose,CA,95132,Dhillon Properties,Buisness Owner,,,41726,,500.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475433,IND,Dhillon,Bhupindar,,,,,San Jose,CA,95132,Dhillon Properties,Buisness Owner,,,41726,,600.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475427,OTH,New India Bazar,,,,,,Milpitas,CA,95035,,,,,41726,,1100.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41727,,,,S497,F497P1,C5475354,IND,Robson,Mark,,,,,San Jose,CA,95126-1109,Robson Homes,Owner,,,41726,,1100.00,,,,,,,,,,,,,,,,,12
+1365447,Protect Our Children - No on San Jose Measure B,000,,41726,,,,S497,F497P1,WyK6cK1xLolx,OTH,"GREG, INC.",,,,,,San Jose,CA,95128,,,,,41726,,5000.00,,,,,,,,,,,,,,,,,1
+1365447,Protect Our Children - No on San Jose Measure B,000,,41726,,,,S497,F497P1,zQcUE5ulQm6z,IND,Stuart,Kathleen,,,,,San Jose,CA,95124,None,Homemaker/Parent,,,41726,,1000.00,,,,,,,,,,,,,,,,,1
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41725,,,41640,S497,F497P1,PNePYEm64Ma3,IND,DiNapoli,John,,,,,San Jose,CA,95113,DINCO,Partner,,,41724,,1100.00,,,,,,,,,,,,,,,,,497
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41725,,,41640,S497,F497P1,tHfqfGbBbEW9,IND,Yang,Amy,,,,,Cupertino,CA,95014,United Properties,Finance,,,41724,,1100.00,,,,,,,,,,,,,,,,,497
+1362187,Dave Cortese for Mayor 2014,000,CAO,41725,,,,S497,F497P1,C5458628,OTH,Fraternal Order of Police Lodge 52,,,,,,San Jose,CA,95113,,,,,41724,,1000.00,,,,,,,,,,,,,,,,,12
+1362187,Dave Cortese for Mayor 2014,000,CAO,41725,,,,S497,F497P1,C5458613,OTH,"Taylor Morrison of California, LLC - SAC",,,,,,Folsom,CA,95630,,,,,41724,,1100.00,,,,,,,,,,,,,,,,,12
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41724,,,41640,S497,F497P1,KqULACo9Zv2P,IND,Liu,Mao,,,,,Cupertino,CA,95014,Self,Information Technology Consultant,,,41723,,1100.00,,,,,,,,,,,,,,,,,497
+1362187,Dave Cortese for Mayor 2014,000,CAO,41721,,,,S497,F497P1,C5455760,IND,Warner,Dale,,,,,San Jose,CA,95133,Retired,Retired,,,41722,,1100.00,,,,,,,,,,,,,,,,,11
+1359805,Madison Nguyen for Mayor 2014,000,,41723,,,41640,S497,F497P1,TmksALOu8mg7,IND,Dipaola,Todd,,,,,Manhattan Beach,CA,90266,"inMarket, Inc.",Chief Executive Officer,,,41722,,1100.00,,,,,,,,,,,,,,,,,9
+1359805,Madison Nguyen for Mayor 2014,000,,41723,,,41640,S497,F497P1,TmksALOu8mg7,IND,Dipaola,Todd,,,,,Manhattan Beach,CA,90266,"inMarket, Inc.",Chief Executive Officer,,,41722,,1100.00,,,,,,,,,,,,,,,,,9
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41723,,,,S497,F497P1,C9959720,IND,Daugherty,Loren,,,,,San Jose,CA,95125,Homemaker,Homemaker,,,41722,,1100.00,,,,,,,,,,,,,,,,,12
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41723,,,,S497,F497P1,C9959717,IND,Weigel-Pena,Cindy,,,,,San Jose,CA,95120,"GreenWaste Recovery, Inc.",Manager,,,41722,,1100.00,,,,,,,,,,,,,,,,,12
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41722,,,,S497,F497P1,C9956369,IND,Abramson,AlbertR,,,,,Burlingame,CA,94010,Abramson Smith Waldsmith LLP,Attorney,,,41719,,1100.00,,,,,,,,,,,,,,,,,11
+1362187,Dave Cortese for Mayor 2014,000,CAO,41721,,,,S497,F497P1,C5453563,IND,Louie,Tersini,,,,,Cupertino,CA,95014,KT Properties,Real Estate,,,41720,,1100.00,,,,,,,,,,,,,,,,,10
+1362187,Dave Cortese for Mayor 2014,000,CAO,41721,,,,S497,F497P1,C5453562,IND,Satake,Stanley,,,,,Morgan Hill,CA,95037-9392,The Southside Anglers Club,Owner,,,41720,,1000.00,,,,,,,,,,,,,,,,,10
+1362187,Dave Cortese for Mayor 2014,000,CAO,41720,,,,S497,F497P1,C5451370,COM,California Conference Board Amalgamated Transit Union,,,,,,Sacramento,CA,95828,,,,,41719,,1100.00,761357,,,,,,,,,,,,,,,,09
+1362187,Dave Cortese for Mayor 2014,000,CAO,41720,,,,S497,F497P1,C5451389,IND,Ton,KimhaN,,,,,San Jose,CA,95132,US Catholic Charities of Santa Clara County,Parent Educator/Program Coordinator,,,41719,,1100.00,,,,,,,,,,,,,,,,,09
+1362187,Dave Cortese for Mayor 2014,000,CAO,41719,,,,S497,F497P1,C5450130,COM,California Federation of Teachers Cope PAC,,,,,,Burbank,CA,91505-5008,,,,,41718,,1100.00,741857,,,,,,,,,,,,,,,,08
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41718,,,,S497,F497P1,C9955288,IND,Corey,GeorgeR,,,,,Millbrae,CA,94030,Self-Employed,Attorney,,,41717,,1000.00,,,,,,,,,,,,,,,,,10
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41718,,,,S497,F497P1,C9954219,IND,Hill,Todd,,,,,Los Gatos,CA,95032,Silicon Valley Homes,President,,,41717,,1100.00,,,,,,,,,,,,,,,,,10
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41718,,,,S497,F497P1,C9955296,IND,McCloskey,PaulN,,Jr.,,,Portola Valley,CA,94028,Retired,Retired,,,41717,,1000.00,,,,,,,,,,,,,,,,,10
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41718,,,,S497,F497P1,C9955297,OTH,"Rick Pfaff, Inc.",,,,,,Los Gatos,CA,95030,,,,,41717,,1100.00,,,,,,,,,,,,,,,,,10
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41718,,,,S497,F497P1,C9955285,OTH,"Silicon Valley Homes, LLC",,,,,,Los Gatos,CA,95030,,,,,41717,,1100.00,,,,,,,,,,,,,,,,,10
+1361139,Neighbors for Sam Liccardo for Mayor 2014,1,CAO,41718,,,,S497,F497P1,C9955286,OTH,Association of Silicon Valley Brokers,,,,,,San Jose,CA,95113,,,,,41716,,1100.00,,,,,,,,,,,,,,,,,9
+1361139,Neighbors for Sam Liccardo for Mayor 2014,1,CAO,41718,,,,S497,F497P1,C9954220,IND,Tersini,LouieP,,,,,Los Gatos,CA,95030,"Tersini Construction, Inc",President,,,41716,,1100.00,,,,,,,,,,,,,,,,,9
+1362111,Paul Fong for San Jose City Council 2014,000,CTL,41718,,,,S497,F497P1,INC251,IND,Fong,Paul,,,,,San Jose,CA,95117,California State Assembly,Assemblymember,,,41715,,6000.00,,,,,,,,,,,,,,,,,2014-03-20
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41717,,,,S497,F497P1,C9952204,OTH,Association of Silicon Valley Brokers,,,,,,San Jose,CA,95113,,,,,41716,,1100.00,,,,,,,,,,,,,,,,,9
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41717,,,,S497,F497P1,C9952206,IND,Tersini,June,,,,,Los Gatos,CA,95030,Retired,Retired,,,41716,,1100.00,,,,,,,,,,,,,,,,,9
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41716,,,41640,S497,F497P1,IX4k8doADrfr,IND,Binder,Heinz,Mr.,,,,San Jose,CA,95126,BinderMolter,Attorney,,,41715,,1000.00,,,,,,,,,,,,,,,,,497
+1362117,Pierluigi Oliverio for Mayor 2014,000,,41716,,,41640,S497,F497P1,aeDwnsI7J7ls,IND,Gerlinger,Adam,Mr.,,,,San Jose,CA,95126,NimbleStorage,Manager,,,41715,,1000.00,,,,,,,,,,,,,,,,,497
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5443824,OTH,Bijan Bakery Incorporated,,,,,,San Jose,CA,95113,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5443944,OTH,Central Concrete Supply,,,,,,San Jose,CA,95126-1839,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5443823,OTH,"Christopher Ranch, LLC",,,,,,Gilroy,CA,95020-9565,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444138,IND,Coker,Maria,,,,,San Jose,CA,95119-1212,Mission Bay,Director,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444064,IND,Cortese,Sarah,,,,,San Jose,CA,95127,Retired,Retired,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444405,IND,Do,Ashley,,,,,San Jose,CA,95138-2119,Bay Advanced Technologies,Manufacturing Planner,,,41715,,1000.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444032,OTH,DPE Construction Group Inc,,,,,,Campbell,CA,95008-5079,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444067,IND,Neale,Anne,,,,,Saratoga,CA,95070-6423,Retired,Retired,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444151,IND,Pirayou,Bianca,,,,,San Jose,CA,95120-3201,Pirayou Law,Attorney,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444080,IND,Rubino,Sal,,,,,San Jose,CA,95126,Retired,Retired,,,41715,,1000.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5443831,OTH,Sabatino 2001 Revocable Trust,,,,,,San Jose,CA,95109-3006,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5444057,OTH,Sal Caruso Development Corporation,,,,,,Santa Clara,CA,95050-3984,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362187,Dave Cortese for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C5443829,OTH,Sanfilippo & Sons Insurance,,,,,,San Jose,CA,95112-6346,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,07
+1362347,Richard McCoy for San Jose City Council 2014,000,,41716,,,41640,S497,F497P1,yWhn4U8td3ai,IND,McCoy,Richard,,,,,San Jose,CA,95130,Retired,Engineer,,,41702,,1500.00,,,,,,,,,,,,,,,,,1
+1362347,Richard McCoy for San Jose City Council 2014,000,,41716,,,41640,S497,F497P1,j7CH9LtuWrwW,IND,McCoy,Richard,,,,,San Jose,CA,95130,Retired,Engineer,,,41702,,1000.00,,,,,,,,,,,,,,,,,1
+1362347,Richard McCoy for San Jose City Council 2014,000,,41716,,,41640,S497,F497P1,VhUzo3CuzwFP,IND,McCoy,Richard,,,,,San Jose,CA,95130,Retired,Engineer,,,41702,,2500.00,,,,,,,,,,,,,,,,,1
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950951,IND,Cassin,Isabel,,,,,Los Altos,CA,94024,Homemaker,Homemaker,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950950,OTH,Central Concrete Supply,,,,,,San Jose,CA,95126,,,,,41715,,1000.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950900,OTH,"Coast Forwarding, LLC",,,,,,Orange,CA,92868,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950889,OTH,"Harmon Investments, LLC",,,,,,San Jose,CA,95110,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950908,IND,Lucas,DonaldL,,,,,Los Gatos,CA,95030,Car Dealership,Owner,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950910,IND,Lucas,SallyS,,,,,Pebble Beach,CA,93953,Homemaker,Homemaker,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950898,OTH,"Newport CH International, LLC",,,,,,Orange,CA,92868,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950891,OTH,"SFP Investments, LP",,,,,,San Jose,CA,95126,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950948,IND,Swenson,Case,,,,,Los Gatos,CA,95030,Swenson Development & Construction,President,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950896,IND,Tersini,Terry,,,,,Los Gatos,CA,95032,Homemaker,Homemaker,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41716,,,,S497,F497P1,C9950894,OTH,Wong Young Development Corp,,,,,,Cupertino,CA,95014,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,KNkuPhlaf2cD,IND,Fong,Dennis,,,,,San Jose,CA,95120,"DPJW Management, LLC",Owner,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,ZpncIbcnYOmT,IND,Hill,Robert,,,,,San Jose,CA,95112,Premier Recycling Services,President,,,41715,,400.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,pwUtKq7QpAaX,IND,Kali-rai,Miriam,,,,,Fremont,CA,94539,De Anza Building& Maintenance,Bookkeeper,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,YQAjE1VHKldf,IND,Lee,Elmer,,,,,San Jose,CA,95128,Youji Corporation,Manager,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,uvNv4bbSkdRu,OTH,Lee Sandwiches,,,,,,Milpitas,CA,95035,,,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,Vf9ZziyhmLWq,IND,Pirayou,Ash,,,,,Palo Alto,CA,94306,"Rutan & Tucker, LLP",Attorney,,,41715,,100.00,,,,,,,,,,,,,,,,,8
+1359805,Madison Nguyen for Mayor 2014,000,,41715,,,41640,S497,F497P1,tcrJetTX6oic,IND,Pirayou,Bianca,,,,,San Jose,CA,95120,Pirayou Law,Attorney,,,41715,,1100.00,,,,,,,,,,,,,,,,,8
+1362187,Dave Cortese for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C5443470,OTH,"Edgar Law Group, LLP",,,,,,San Jose,CA,95112,,,,,41714,,1000.00,,,,,,,,,,,,,,,,,06
+1362187,Dave Cortese for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C5443440,IND,Huynh,HaiQ,,,,,San Jose,CA,95132,Le Bail Bonds,Owner,,,41714,,1000.00,,,,,,,,,,,,,,,,,06
+1362187,Dave Cortese for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C5443473,OTH,Law Offices of Michael H Luu,,,,,,San Jose,CA,95121,,,,,41714,,1000.00,,,,,,,,,,,,,,,,,06
+1362187,Dave Cortese for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C5443465,OTH,"Little Saigon Heros USA, Inc",,,,,,Milpitas,CA,95035,,,,,41714,,1000.00,,,,,,,,,,,,,,,,,06
+1362187,Dave Cortese for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C5442674,IND,Luu,Michael,,,,,San Jose,CA,95138-2216,Self,Attorney,,,41714,,500.00,,,,,,,,,,,,,,,,,06
+1362187,Dave Cortese for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C5443687,IND,Luu,Michael,,,,,San Jose,CA,95138-2216,Self,Attorney,,,41714,,500.00,,,,,,,,,,,,,,,,,06
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948550,IND,Mendonca,Christine,,,,,Moss Beach,CA,94038,Retired,Retired,,,41714,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948521,IND,DiNapoli,Jennifer,,,,,San Jose,CA,95113,Homemaker,Homemaker,,,41712,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948523,OTH,Newbury Park Associates LLC,,,,,,San Jose,CA,95113,,,,,41712,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948545,IND,Hodges,James,,,,,Los Angeles,CA,90024,Nederlander,CEO,,,41712,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948516,OTH,Ralison International Inc.,,,,,,Diamond Bar,CA,91765,,,,,41712,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948546,IND,Cioth,Greg,,,,,San Jose,CA,95136,Eastdil,Commercial Real Estate Sales,,,41712,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948517,IND,Stevenson,Natalie,,,,,Watsonville,CA,95076,Homemaker,Homemaker,,,41712,,1000.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948547,IND,Braunstein,RobertM.,,,,,San Jose,CA,95120,Annabelle Productions,President,,,41713,,1100.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948518,IND,Singh,Ajay,,,,,San Jose,CA,95116,7-11 Franchise,Business Owner,,,41712,,1000.00,,,,,,,,,,,,,,,,,7
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41715,,,,S497,F497P1,C9948549,IND,Frazer,John,,Jr.,,,San Jose,CA,95120,Retired,Retired,,,41714,,1100.00,,,,,,,,,,,,,,,,,7
+1362187,Dave Cortese for Mayor 2014,000,CAO,41713,,,,S497,F497P1,C5440526,IND,Jalili,Sam,,,,,San Jose,CA,95120-4437,RJ Electric,Electrical Contractor,,,41712,,1000.00,,,,,,,,,,,,,,,,,05
+1362187,Dave Cortese for Mayor 2014,000,CAO,41713,,,,S497,F497P1,C5440603,IND,Kilkenny,Mary,,,,,Los Gatos,CA,95030-2150,Ventana Medical Grp,doctor,,,41712,,1000.00,,,,,,,,,,,,,,,,,05
+1362187,Dave Cortese for Mayor 2014,000,CAO,41713,,,,S497,F497P1,C5440587,IND,Lin,Linda,,,,,San Jose,CA,95148-3106,,,,,41712,,1000.00,,,,,,,,,,,,,,,,,05
+1362187,Dave Cortese for Mayor 2014,000,CAO,41713,,,,S497,F497P1,C5440504,OTH,Oak Hill Memorial Park & Mortuary,,,,,,San Jose,CA,95125-1499,,,,,41712,,1100.00,,,,,,,,,,,,,,,,,05
+1362187,Dave Cortese for Mayor 2014,000,CAO,41713,,,,S497,F497P1,C5440585,IND,Wang,Mei-Ying,,,,,San Jose,CA,95127-3650,,,,,41712,,1000.00,,,,,,,,,,,,,,,,,05
+1362187,Dave Cortese for Mayor 2014,000,CAO,41713,,,,S497,F497P1,C5440586,IND,Young,Christine,,,,,San Jose,CA,95120-4108,,Architecture/Planning,,,41712,,1000.00,,,,,,,,,,,,,,,,,05
+1362030,Save San Jose Libraries 2014  sponsored by San Jose Public Library Foundation,000,BMC,41712,41711,41711,41793,S497,F497P1,F497P1-9,IND,Light,Jane E.,,,,,San Jose,CA,95110,Jane E. Light  Consultant,Consultant,,,41711,,2000.00,,,,,,,,,,,,,,,,,LCR-20140313
+1362030,Save San Jose Libraries 2014  sponsored by San Jose Public Library Foundation,000,BMC,41712,41711,41711,41793,S497,F497P1,F497P1-10,COM,LOCAL 101 AFSCME AFL-CIO POLITICAL ACTION COMMITTEE,,,,,,San Jose,CA,95112,,,,,41711,,5000.00,821697,,,,,,,,,,,,,,,,LCR-20140313
+1362030,Save San Jose Libraries 2014  sponsored by San Jose Public Library Foundation,000,BMC,41712,41711,41711,41793,S497,F497P1,F497P1-9,IND,Light,Jane E.,,,,,San Jose,CA,95110,Jane E. Light  Consultant,Consultant,,,41711,,2000.00,,,,,,,,,,,,,,,,,LCR-20140313
+1362030,Save San Jose Libraries 2014  sponsored by San Jose Public Library Foundation,000,BMC,41712,41711,41711,41793,S497,F497P1,F497P1-10,COM,LOCAL 101 AFSCME AFL-CIO POLITICAL ACTION COMMITTEE,,,,,,San Jose,CA,95112,,,,,41711,,5000.00,821697,,,,,,,,,,,,,,,,LCR-20140313
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41712,,,,S497,F497P1,C9946908,IND,Petersen,James,,,,,Fremont,CA,94538,PetersenDean Roofing and Solar,CEO,,,41711,,1100.00,,,,,,,,,,,,,,,,,6
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41711,,,,S497,F497P1,C9945771,IND,Atwood,StanfordH,,Jr.,,,Los Gatos,CA,95032,Atwood & Associates,Attorney,,,41710,,1100.00,,,,,,,,,,,,,,,,,5
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41711,,,,S497,F497P1,C9945856,IND,Goldman,Kenneth,,,,,Atherton,CA,94027,"Yahoo, Inc.",Chief Financial Officer,,,41710,,1100.00,,,,,,,,,,,,,,,,,5
+1362187,Dave Cortese for Mayor 2014,000,CAO,41711,,,,S497,F497P1,C5437456,IND,Chang,Rosalind,,,,,Los Altos Hills,CA,94022-2096,self,housewife,,,41710,,1100.00,,,,,,,,,,,,,,,,,04
+1362187,Dave Cortese for Mayor 2014,000,CAO,41711,,,,S497,F497P1,C5438297,OTH,"Coast Forwarding, LLC",,,,,,Orange,CA,92868-4639,,,,,41710,,1100.00,,,,,,,,,,,,,,,,,04
+1362187,Dave Cortese for Mayor 2014,000,CAO,41711,,,,S497,F497P1,C5438293,OTH,"Newport CH International, LLC",,,,,,Orange,CA,92868-4662,,,,,41710,,1100.00,,,,,,,,,,,,,,,,,04
+1362187,Dave Cortese for Mayor 2014,000,CAO,41711,,,,S497,F497P1,C5438292,IND,Yang,Jim,,,,,Irvine,CA,92603-4237,Newport CH International LLC,Owner,,,41710,,1100.00,,,,,,,,,,,,,,,,,04
+1359805,Madison Nguyen for Mayor 2014,000,,41710,,,41640,S497,F497P1,oUnS2cA8vCfK,OTH,The Waite Family Trust,,,,,,Rancho Santa Fe,CA,92067,,,,,41710,,1100.00,,,,,,,,,,,,,,,,,4
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C9942882,IND,Danh,Manly,,,,,San Jose,CA,95110,Self-Employed,Real Estate Developer,,,41709,,1100.00,,,,,,,,,,,,,,,,,4
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C9942883,IND,Vincent,Paul,,,,,San Jose,CA,95148,Retired,Retired,,,41709,,1100.00,,,,,,,,,,,,,,,,,4
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C9942884,IND,Vincent,Kathleen,,,,,San Jose,CA,95148,Retired,Retired,,,41709,,1100.00,,,,,,,,,,,,,,,,,4
+1362187,Dave Cortese for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C5437417,OTH,Cal Doors,,,,,,Morgan Hill,CA,95037-2859,,,,,41709,,1100.00,,,,,,,,,,,,,,,,,03
+1362187,Dave Cortese for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C5437512,OTH,Canh Thai Temple,,,,,,San Jose,CA,95148-2254,,,,,41709,,1000.00,,,,,,,,,,,,,,,,,03
+1362187,Dave Cortese for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C5436601,IND,Carroll,MichaelC,,,,,Pleasanton,CA,94566-5640,City of SJ,Retired,,,41709,,1100.00,,,,,,,,,,,,,,,,,03
+1362187,Dave Cortese for Mayor 2014,000,CAO,41710,,,,S497,F497P1,C5437425,IND,Mobedshahi,Manoucher,,,,,Morgan Hill,CA,95037,Mobedshahi Hotel Group,Owner,,,41709,,1000.00,,,,,,,,,,,,,,,,,03
+1362030,Save San Jose Libraries 2014  sponsored by San Jose Public Library Foundation,000,BMC,41710,41709,41709,41793,S497,F497P1,F497P1-8,OTH,Berryessa Library Friends,,,,,,San Jose,CA,95132,,,,,41709,,3000.00,,,,,,,,,,,,,,,,,LCR-20140311
+1362030,Save San Jose Libraries 2014  sponsored by San Jose Public Library Foundation,000,BMC,41710,41709,41709,41793,S497,F497P1,F497P1-7,IND,Flaherty,Georgiana,,,,,San Jose,CA,95112,N/A,Retired,,,41709,,1000.00,,,,,,,,,,,,,,,,,LCR-20140311
+1359805,Madison Nguyen for Mayor 2014,000,,41709,,,41640,S497,F497P1,3B7FDmgUPUnd,OTH,Capitol Pure Water,,,,,,San Jose,CA,95121,,,,,41709,,1000.00,,,,,,,,,,,,,,,,,3
+1359805,Madison Nguyen for Mayor 2014,000,,41709,,,41640,S497,F497P1,m8KhVenI2pz2,OTH,"D&T Foods, Inc.",,,,,,Santa Clara,CA,95050,,,,,41709,,1100.00,,,,,,,,,,,,,,,,,3
+1359805,Madison Nguyen for Mayor 2014,000,,41709,,,41640,S497,F497P1,6R3DSCIYAidR,IND,Do,Quan,,,,,San Jose,CA,95111,"Safeway, Inc.",Web Traffic Supervisor,,,41709,,1100.00,,,,,,,,,,,,,,,,,3
+1359805,Madison Nguyen for Mayor 2014,000,,41709,,,41640,S497,F497P1,FNOgHR2stBmN,IND,Doan,Thomas,,,,,San Jose,CA,95121,"Amgen, Inc.",Sales Representative,,,41709,,1100.00,,,,,,,,,,,,,,,,,3
+1359805,Madison Nguyen for Mayor 2014,000,,41709,,,41640,S497,F497P1,izUn9wcvOzZe,OTH,McKee Pure Water,,,,,,San Jose,CA,95116,,,,,41709,,1000.00,,,,,,,,,,,,,,,,,3
+1362187,Dave Cortese for Mayor 2014,000,,41709,,,41640,S497,F497P1,vzzoKI6vdRzQ,IND,Baroudi,Nisreen,,,,,Los Gatos,CA,95032,Santa Clara County,Deputy Public Defender,,,41708,,1100.00,,,,,,,,,,,,,,,,,02
+1362187,Dave Cortese for Mayor 2014,000,,41709,,,41640,S497,F497P1,Kf6u7gJbLHnG,IND,Pellegrini,Louis,,,,,Stanford,CA,94305,Peninsula Sanitary Service,Owner,,,41708,,1000.00,,,,,,,,,,,,,,,,,02
+1362187,Dave Cortese for Mayor 2014,000,,41709,,,41640,S497,F497P1,ULjMfSEQMZL5,COM,Sheet Metal Workers Local 104,,,,,,San Jose,CA,95131,,,,,41708,,1100.00,850351,,,,,,,,,,,,,,,,02
+1361139,Neighbors for Sam Liccardo for Mayor 2014,000,CAO,41709,,,,S497,F497P1,C9939299,COM,Kevin Mullin for Assembly 2014,,,,,,Burlingame,CA,94010,,,,,41708,,1000.00,1354035,,,,,,,,,,,,,,,,3
+1362187,Dave Cortese for Mayor 2014,000,,41708,,,41640,S497,F497P1,SSIvkd1wLfbZ,IND,Chang,Tina,,,,,Milpitas,CA,95035,Tina's Hair Design,Owner,,,41707,,1000.00,,,,,,,,,,,,,,,,,1
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,AtXwUoYY318l,IND,Clancy,Joseph,,,,,Pleasanton,CA,94566,"Clancy Machine Tool, Inc.",President,,,41707,,1000.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,rB2eyUnlN8P6,IND,Duong,Trung,,,,,Oakland,CA,94608,Vietnamese American Business Association,President,,,41707,,1100.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,rGogVdrh3IQI,OTH,"H A Business Ventures, LLC",,,,,,San Jose,CA,95126,,,,,41707,,1100.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,ioUD976T8aWE,IND,Nguyen,Billy,,,,,San Jose,CA,95116,BK Productions,Sound Engineer,,,41707,,1100.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,nL79pPhaKgyt,IND,Nguyen,Tam,,,,,San Jose,CA,95111,Intero Real Estate,Realtor,,,41707,,1050.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,UCFNFaOi6kJ5,IND,Phan,Vivian,,,,,San Jose,CA,95131,Modern Woodmen,Financial Adviser,,,41707,,1100.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,udki5ETSQpAF,OTH,"Sadica, Inc.",,,,,,San Jose,CA,95111,,,,,41707,,1100.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41707,,,41640,S497,F497P1,LzFGefD9e7qa,IND,Trang,Binh,,,,,Hayward,CA,94544,"LAC Motors, Inc.",Manager,,,41707,,1100.00,,,,,,,,,,,,,,,,,2
+1359805,Madison Nguyen for Mayor 2014,000,,41704,,,41640,S497,F497P1,s1XCpi1qw5Qr,IND,Ngo,Hua,,,,,Burlingame,CA,94010,,Retired,,,41704,,1100.00,,,,,,,,,,,,,,,,,1
+1359805,Madison Nguyen for Mayor 2014,000,,41704,,,41640,S497,F497P1,vhUf2ONxJUTe,IND,Wilson,David,,,,,Los Gatos,CA,95032,"FW Spencer& Son, Inc.",Project Manager,,,41704,,1100.00,,,,,,,,,,,,,,,,,1
+1359805,Madison Nguyen for Mayor 2014,000,,41704,,,41640,S497,F497P1,xreIyRXpgkIx,IND,Wilson,Linda,,,,,Los Gatos,CA,95032,,Homemaker,,,41704,,1100.00,,,,,,,,,,,,,,,,,1

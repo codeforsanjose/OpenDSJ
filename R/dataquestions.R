@@ -37,19 +37,30 @@ nrow(subset(mayors, ID == 1359805))
 #1362187 Dave Cortese
 sum(subset(mayors, ID == 1362187)$Amt1)
 #Total = 930001.4
+#NewTotal 1132733
+
 nrow(subset(mayors, ID == 1362187))
+#New 4060 contributions
 3183 contributions
 sum(subset(mayors, (ID == 1362187 & City == "san jose"))$Amt1)
 #487655.2
+#New 580057.4
+
 sum(subset(mayors, (ID == 1362187 & City != "san jose"))$Amt1)
 #442346.2
-
+#552675.7
 487655.2/(487655.2 + 442346.2)
 
 442346.2/(487655.2 + 442346.2)
-
 #52.4% vs 47.6% in san jose vs out of san jose
 
+580057.4/(552675.7 + 580057.4)
+
+
+552675.7/(552675.7 + 580057.4)
+#Cortese new 
+#48.8 percent outside san jose.
+#Cortese new is 49%
 
 #Pierliugi Oliverio Pierluigi Oliverio for Mayor 2014 
 1362117 Pierluigi Oliverio for Mayor 2014
