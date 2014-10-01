@@ -1,3 +1,6 @@
+#Written by Lynna and Vivek
+#See OpenDSJ (v1) for details.
+
 #You can run the below as is to get the comma separate txt file with the info you need
 
 #Choose the cut off date where the amt contributed is for the runoff (not for the primary).
@@ -53,63 +56,105 @@ mayors <- rename(somemayors, c("combo.Filer_NamL"="Cands", "combo.Filer_ID"="ID"
 primaryCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
                                data = mayors[(mayors$TDate <= cutOffDate),], FUN = sum)
 
+primaryColorBucket <- as.numeric(cut2(primaryCandidates$Amt1, g = 7))
+
+#Color Subs
+color <- numeric()
+color[1:7] = c('#ffffb2', '#fed976', '#feb24c', '#fd8d3c','#fc4e2a', '#e31a1c',  '#b10026')
+
+newColors <- ifelse(primaryColorBucket==1, color[1],
+              ifelse(primaryColorBucket == 2, color[2], 
+                     ifelse(primaryColorBucket == 3, color[3], 
+                            ifelse(primaryColorBucket == 4, color[4], 
+                                   ifelse(primaryColorBucket == 5, color[5], 
+                                          ifelse(primaryColorBucket == 6, color[6], 
+                                                 color[7]))))))
+
+primaryCandidates[5] <- newColors
+colnames(primaryCandidates)[5] <-'color'
+
+
+
 #For Nguyen
 nguyen <- primaryCandidates[primaryCandidates$ID == 1359805, ] 
 nguyen$firstCol <- "primary"
 nguyen$secCol <- "Nguyen"
 nguyen$ID <- NULL
-nguyen <- nguyen[ , c(4, 5, 2, 1, 3)] #Reorder
+nguyen <- nguyen[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 #For Liccardo
 liccardo <- primaryCandidates[primaryCandidates$ID == 1361139, ] 
 liccardo$firstCol <- "primary"
 liccardo$secCol <- "Liccardo"
 liccardo$ID <- NULL
-liccardo <- liccardo[ , c(4, 5, 2, 1, 3)] #Reorder
+liccardo <- liccardo[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 #For Oliverio
 oliverio <- primaryCandidates[primaryCandidates$ID == 1362117, ] 
 oliverio$firstCol <- "primary"
 oliverio$secCol <- "Oliverio"
 oliverio$ID <- NULL
-oliverio <- oliverio[ , c(4, 5, 2, 1, 3)] #Reorder
+oliverio <- oliverio[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 #For Cortese
 cortese <- primaryCandidates[primaryCandidates$ID == 1362187, ] 
 cortese$firstCol <- "primary"
 cortese$secCol <- "Cortese"
 cortese$ID <- NULL
-cortese <- cortese[ , c(4, 5, 2, 1, 3)] #Reorder
+cortese <- cortese[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 #For Herrera
 herrera <- primaryCandidates[primaryCandidates$ID == 1362068, ] 
 herrera$firstCol <- "primary"
 herrera$secCol <- "Herrera"
 herrera$ID <- NULL
-herrera <- herrera[ , c(4, 5, 2, 1, 3)] #Reorder
+herrera <- herrera[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 
 #################### Then, for the runoff ####################
 
 runOffCandidates <- aggregate(Amt1 ~ Zip + ID + TDate, 
                                data = mayors[(mayors$TDate > cutOffDate),], FUN = sum)
+
+primaryColorBucket <- numeric()
+primaryColorBucket <- as.numeric(cut2(runOffCandidates$Amt1, g = 7))
+
+#Color Subs
+#color <- numeric()
+#color[1:7] = c('#ffffb2', '#fed976', '#feb24c', '#fd8d3c','#fc4e2a', '#e31a1c',  '#b10026')
+
+newColors <- ifelse(primaryColorBucket==1, color[1],
+                    ifelse(primaryColorBucket == 2, color[2], 
+                           ifelse(primaryColorBucket == 3, color[3], 
+                                  ifelse(primaryColorBucket == 4, color[4], 
+                                         ifelse(primaryColorBucket == 5, color[5], 
+                                                ifelse(primaryColorBucket == 6, color[6], 
+                                                       color[7]))))))
+
+runOffCandidates[5] <- newColors
+colnames(runOffCandidates)[5] <-'color'
+
+
+
+
 #For Liccardo
 liccardoRunOff <- runOffCandidates[runOffCandidates$ID == 1361139, ] 
 liccardoRunOff$firstCol <- "runoff"
 liccardoRunOff$secCol <- "Liccardo"
 liccardoRunOff$ID <- NULL
-liccardoRunOff <- liccardoRunOff[ , c(4, 5, 2, 1, 3)] #Reorder
+liccardoRunOff <- liccardoRunOff[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 #For Cortese
 corteseRunOff <- primaryCandidates[runOffCandidates$ID == 1362187, ] 
 corteseRunOff$firstCol <- "runoff"
 corteseRunOff$secCol <- "Cortese"
 corteseRunOff$ID <- NULL
-corteseRunOff <- corteseRunOff[ , c(4, 5, 2, 1, 3)] #Reorder
+corteseRunOff <- corteseRunOff[ , c(5, 6, 2, 1, 3, 4)] #Reorder
 
 
 #################### Row-bind everything ######################
 summaryInfo <- rbind(nguyen, liccardo, oliverio, cortese, herrera, liccardoRunOff, corteseRunOff)
+
 
 write.table(summaryInfo, "summaryInfo.txt", quote=FALSE, sep="," , row.names=FALSE, col.names=FALSE)
 
