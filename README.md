@@ -1,7 +1,7 @@
 OpenDSJ
 =======
 
-This app will outline raw information about the 2014 San Jose California Mayoral race contributions. This app was inspired by opendisclosure.io.
+This app will outline raw information about the 2014 San Jose California Mayoral race contributions. This app was inspired by [opendisclosure.io.](http://www.opendisclosure.io)
 
 Version one finished! Here’s how we did it:
 - We used publically available campaign finance data. 
@@ -9,8 +9,7 @@ Version one finished! Here’s how we did it:
 - We built from scratch a CSS/JavaScript website
 - and used a free map service, CartoDB.
 
-Final project visible here:
-http://codeforsanjose.com/opendsj/
+Final project visible [here](http://www.codeforsanjose.com/opendisclosure/)
 
 Issues:
 this is only a one snapshot picture of the race --- doesn’t pull ongoing updated data -- we would like to display data over time
