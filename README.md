@@ -33,7 +33,7 @@ Resources:
 - [Free Software for Code for America brigades](http://brigade.codeforamerica.org/resources/software)
 - Here is a link to download the [2018 San José, California election campaign finance data](https://www.southtechhosting.com/SanJoseCity/CampaignDocsWebRetrieval/)
 
-Check out our list of issues on GitHub, and join our discussion on [Slack](https://slackin-c4sj.herokuapp.com/): #open-disclosure channel. Visit us at a Civic Hack night. Check out our [upcoming meetings](https://www.meetup.com/code-for-san-jose/) and RSVP.
+We are now starting a new repository for the 2018 version of the [Open Disclosure project](https://github.com/codeforsanjose/OpenDSJ-2018). Join our discussion on [Slack](https://slackin-c4sj.herokuapp.com/): #open-disclosure channel. 
 
 ## Details about Version 1:
 Process:
